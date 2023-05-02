@@ -1,0 +1,10 @@
+"[17/Jul/2016:02:47:50 -0500]" 147 bluecoat.proxysg.test.com WILSONT - - OBSERVED "Suspicious" http://www.bothaven.com/gallery/2016%20Muddy%20Gras/FILE0012.JPG.php 302 TCP_NC_MISS
+ GET text/html http www.bothaven.com 80 /gallery/2016%20Muddy%20Gras/image/800/FILE0012.JPG - JPG "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB5; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; InfoPath.1; Dealio Toolbar 3.1.1)" 54.230.49.27 380 455 -
+"[17/Jul/2016:02:47:50 -0500]" 1 bluecoat.proxysg.test.com WILSONT - - OBSERVED "none" - 0 - POST - http 54.230.49.27 80 / - - "Mozilla/5.0" 54.230.49.27 0 687 -
+"[17/Jul/2016:02:47:50 -0500]" 2 bluecoat.proxysg.test.com WILSONT - - OBSERVED "none" - 0 - POST - http 54.230.49.27 80 / - - "Mozilla/5.0" 54.230.49.27 0 687 -
+"[17/Jul/2016:02:47:50 -0500]" 1 bluecoat.proxysg.test.com WILSONT - - OBSERVED "none" - 0 - POST - http 54.230.49.27 80 / - - "Mozilla/5.0" 54.230.49.27 0 687 -
+"[17/Jul/2016:02:47:50 -0500]" 1 bluecoat.proxysg.test.com WILSONT - - OBSERVED "none" - 0 - POST - http 54.230.49.27 80 / - - "Mozilla/5.0" 54.230.49.27 0 687 -
+"[17/Jul/2016:02:47:50 -0500]" 8 bluecoat.proxysg.test.com WILSONT - - OBSERVED "none" - 0 - POST - http 54.230.49.27 80 / - - "Mozilla/5.0" 54.230.49.27 0 512 -
+"[17/Jul/2016:02:47:50 -0500]" 1 bluecoat.proxysg.test.com WILSONT - - OBSERVED "none" - 0 - POST - http 54.230.49.27 80 / - - "Mozilla/5.0" 54.230.49.27 0 687 -
+"[17/Jul/2016:02:47:50 -0500]" 1 bluecoat.proxysg.test.com WILSONT - - OBSERVED "none" - 0 - POST - http 54.230.49.27 80 / - - "Mozilla/5.0" 54.230.49.27 0 687 -
+"[17/Jul/2016:02:47:50 -0500]" 1 bluecoat.proxysg.test.com WILSONT - - OBSERVED "none" - 0 - POST - http 54.230.49.27 80 / - - "Mozilla/5.0" 54.230.49.27 0 687 -

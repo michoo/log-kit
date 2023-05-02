@@ -1,0 +1,1 @@
+<85>/usr/bin/sudo:  a38340p : TTY=unknown ; PWD=/ESPSystemAgent ; USER=root ; COMMAND=/bin/su - a38489p -c /usr/bin/perl /opt/artprev/jobs/esp_trigger.pl HPARTDEK ZZIMPSPLITRUN ZZCISLK2,9 /opt/artprev/ids/artiva/CISImport_ID.txt 

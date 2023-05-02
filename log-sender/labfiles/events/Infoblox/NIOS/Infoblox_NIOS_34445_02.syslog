@@ -1,0 +1,1 @@
+<30>Jan 23 10:38:47 infoblox.nios.test.com named[1374]: success resolving '2.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa/PTR' (in 'ip6.arpa'?) after reducing the advertised EDNS UDP packet size to 512 octets

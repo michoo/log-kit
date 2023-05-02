@@ -1,0 +1,15 @@
+<33>Jun  8 11:16:07 gnu.linuxserver.test.com sudo:  h473854 : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=asdas
+<35>Jun  8 11:15:54 gnu.linuxserver.test.com sshd[29827]: error: ssh_msg_send: write
+<83>Jun  8 11:15:54 gnu.linuxserver.test.com sshd[29827]: pam_unix2(sshd:auth): conversation failed
+<34>Jun  8 11:15:54 gnu.linuxserver.test.com sshd[29814]: fatal: Timeout before authentication for 10.10.6.225
+<86>Jun  8 11:15:51 gnu.linuxserver.test.com shadow[29997]: account is unknown - account=corsecj, by=0
+<38>Jun  8 11:14:22 gnu.linuxserver.test.com sshd[29838]: Accepted keyboard-interactive/pam for root from 10.10.6.225 port 4195 ssh2
+<38>Jun  8 11:14:02 gnu.linuxserver.test.com sshd[29814]: Failed keyboard-interactive/pam for invalid user corsecj from 10.10.6.225 port 4190 ssh2
+<35>Jun  8 11:14:02 gnu.linuxserver.test.com sshd[29814]: error: PAM: User not known to the underlying authentication module for illegal user corsecj from 10.10.6.225
+<38>Jun  8 11:13:59 gnu.linuxserver.test.com sshd[29814]: Failed keyboard-interactive/pam for invalid user corsecj from 10.10.6.225 port 4190 ssh2
+<35>Jun  8 11:13:59 gnu.linuxserver.test.com sshd[29814]: error: PAM: User not known to the underlying authentication module for illegal user corsecj from 10.10.6.225
+<38>Jun  8 11:13:56 gnu.linuxserver.test.com sshd[29814]: Failed none for invalid user corsecj from 10.10.6.225 port 4190 ssh2
+<38>Jun  8 11:13:56 gnu.linuxserver.test.com sshd[29814]: Invalid user corsecj from 10.10.6.225
+<37>Jun  8 11:00:04 gnu.linuxserver.test.com su: (to nobody) root on none
+<37>Jun  8 11:00:04 gnu.linuxserver.test.com su: (to nobody) root on none
+<37>Jun  8 11:00:04 gnu.linuxserver.test.com su: (to nobody) root on none

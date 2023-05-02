@@ -1,0 +1,1 @@
+<185>date=2009-10-28 time=11:58:45 devname=FGT-CARLI-Nav-2009 device_id=FGT60B3908650744 log_id=0104032002 type=event subtype=admin pri=alert vd=root user="admin" ui=https(172.16.7.100) action=login status=failed reason="passwd_invalid" msg="Administrator admin login failed from https(172.16.7.100) because of invalid password"

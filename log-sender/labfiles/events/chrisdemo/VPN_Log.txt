@@ -1,0 +1,7 @@
+%ASA-6-113012: AAA user authentication Successful: local database: user = twilson
+%ASA-7-713052: User twilson authenticated.
+%ASA-5-713119: PHASE 1 COMPLETED
+%ASA-5-713120: PHASE 2 COMPLETED (msgid=msg_id)
+<142>security[27834]: [global@Level_2_Authentication_Group] User twilson logged on from 5.189.192.12 to 10.1.230.2 Sid = c7054
+<142>security[27834]: [global@Level_2_Authentication_Group] User twilson logged on from 5.189.192.12 to 10.1.230.2 Sid = c7054
+%ASA-6-722023: Group group User user-name IP IP_address SVC connection terminated without compression

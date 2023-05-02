@@ -1,0 +1,11 @@
+<182>Apr 23 15:22:29 f5networks.bigip.test.com logger: [ssl_acc] 192.168.10.3 - admin [23/Apr/2009:12:22:29 -0700] "POST /iControl/iControlPortal.cgi HTTP/1.1" 200 437
+<182>Apr 23 15:23:03 f5networks.bigip.test.com logger: [ssl_acc] 192.168.10.59 - - [23/Apr/2009:12:23:03 -0700] "HEAD / HTTP/1.0" 200 -
+Aug  4 02:18:27 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Delete MEMBER 141.146.12.131:2920 (Parent: POOL gsi_store_http)  User: iharimur_sg
+Aug  4 20:32:01 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Modify MONITOR_INSTANCE 141.146.13.122:7780  User: candani_us
+Aug  4 20:32:01 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Action NODEBOX 141.146.13.122:7780  User: candani_us
+Aug  4 20:55:51 f5networks.bigip.test.com mcpd[753]: 01070417:5: AUDIT - user bmukesh_in - transaction #3858381-1 - object 783 - modify { pool_member { pool_member_pool_name "content_prod_http_pool" pool_member_addr 138.1.186.62 pool_member_port 7778 pool_member_monitor_state 2 pool_member_new_session_enable 0 } } 
+Aug  4 20:57:49 f5networks.bigip.test.com mcpd[753]: 01070417:5: AUDIT - user root - transaction #3860009-1 - object 162 - create_if { db_variable { db_variable_name "configsync.csdone" db_variable_value "1" } }
+Aug  4 20:57:49 f5networks.bigip.test.com mcpd[753]: 01070533:3: evWrite finished with no byte sent to connection 0x10fb4d78 (user root) - connection deleted.
+Aug  5 10:29:42 f5networks.bigip.test.com [518]: AUDIT -- Modify VIPBOX 141.146.8.32:80  User: ERPW
+Aug  5 10:43:52 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Modify VIPBOX 141.146.8.38:80 (Parent: VIPHEAD 141.146.8.38)  User: njyrala_fi
+Aug  2 20:04:01 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Modify POOL gsi_store_http  User: jmakino_us

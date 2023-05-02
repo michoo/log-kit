@@ -1,0 +1,25 @@
+<27>Sep  1 21:57:25 named[23460]: [ID 873579 daemon.error] client 63.76.208.15#40847: update forwarding '0.0.189.in-addr.arpa/IN' denied
+<27>Sep  2 10:34:41 named[29283]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  2 10:34:41 named[29283]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  2 10:34:41 named[29283]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  2 10:34:41 named[29283]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  2 21:57:45 named[23460]: [ID 873579 daemon.error] client 63.76.208.15#40578: update forwarding '0.0.189.in-addr.arpa/IN' denied
+<27>Sep  9 08:28:23 named[1988]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  9 08:28:23 named[1988]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  9 08:28:23 named[1988]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  9 08:28:23 named[1988]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  9 08:34:22 named[23362]: [ID 873579 daemon.error] zone alonet.com.br/IN: loading from master file sz/db.alo.net.br failed: not at top of zone
+<27>Sep  9 08:34:22 named[23362]: [ID 873579 daemon.error] sz/db.alo.net.br:3: SOA record not at top of zone (alonet.net.br)
+<27>Sep  9 08:34:22 named[23362]: [ID 873579 daemon.error] sz/db.atendnet.com.br:3: SOA record not at top of zone (tconet.net.br)
+<27>Sep  9 08:34:23 named[23362]: [ID 873579 daemon.error] zone tcowap.net.br/IN: loading from master file sz/db.tcowap.net.br failed: not at top of zone
+<27>Sep  9 09:55:57 named[23362]: [ID 873579 daemon.error] client 63.76.208.15#41421: update forwarding '0.0.189.in-addr.arpa/IN' denied
+<27>Sep  2 10:34:41 named[29283]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  2 10:34:41 named[29283]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  2 10:34:41 named[29283]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  2 10:34:41 named[29283]: [ID 873579 daemon.error] socket: too many open file descriptors
+<27>Sep  2 21:57:45 named[23460]: [ID 873579 daemon.error] client 63.76.208.15#40578: update forwarding '0.0.189.in-addr.arpa/IN' denied
+<27>Sep  9 08:34:22 named[23362]: [ID 873579 daemon.error] zone alonet.com.br/IN: loading from master file sz/db.alo.net.br failed: not at top of zone
+<27>Sep  9 08:34:22 named[23362]: [ID 873579 daemon.error] sz/db.alo.net.br:3: SOA record not at top of zone (alonet.net.br)
+<27>Sep  9 08:34:22 named[23362]: [ID 873579 daemon.error] sz/db.atendnet.com.br:3: SOA record not at top of zone (tconet.net.br)
+<27>Sep  9 08:34:23 named[23362]: [ID 873579 daemon.error] zone tcowap.net.br/IN: loading from master file sz/db.tcowap.net.br failed: not at top of zone
+<27>Sep  9 09:55:57 named[23362]: [ID 873579 daemon.error] client 63.76.208.15#41421: update forwarding '0.0.189.in-addr.arpa/IN' denied

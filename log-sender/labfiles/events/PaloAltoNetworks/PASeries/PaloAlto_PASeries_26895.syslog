@@ -1,0 +1,2 @@
+<182>Oct  7 02:22:28 1,2010/10/07 02:22:28,0001A100335,SYSTEM,general,0,2010/10/07 02:22:28,,auth-success,,0,0,general,informational,User 'ch1ckno1' authenticated.
+Oct 6 14:29:09 1,2010/10/06 14:29:09,0001A100332,SYSTEM,general,0,2010/10/06 14:29:09,,auth-fail,,0,0,general,informational,User 'badlogtest' failed authentication

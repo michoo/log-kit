@@ -1,0 +1,6 @@
+<85>passwd: pam_unix(passwd:chauthtok): password changed for csds
+<85>passwd: pam_unix(passwd:chauthtok): password changed for caf
+<85>passwd: pam_unix(passwd:chauthtok): password changed for nagios
+<85>passwd: pam_unix(passwd:chauthtok): password changed for root
+<85>passwd: pam_unix(passwd:chauthtok): password changed for irr
+<85>passwd: pam_unix(passwd:chauthtok): password changed for isocal

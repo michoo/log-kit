@@ -1,0 +1,4 @@
+<4>kernel: hda: irq timeout: status=0xd0 { Busy }
+<6>kernel: ide-cd: cmd 0x3 timed out
+<4>kernel: ide: failed opcode was: unknown
+<4>kernel: hda: ATAPI reset complete

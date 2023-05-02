@@ -1,0 +1,14 @@
+<37>sshd(pam_unix)[1140]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<37>sshd(pam_unix)[1114]: 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<37>sshd(pam_unix)[1118]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<37>sshd(pam_unix)[1113]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<37>sshd(pam_unix)[1112]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<37>sshd(pam_unix)[1111]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<38>sshd(pam_unix)[921]: session closed for user pitr256
+<37>su(pam_unix)[966]: authentication failure; logname=pitr256 uid=503 euid=0 tty=pts/0 ruser=pitr256 rhost=  user=root
+<38>sshd(pam_unix)[921]: session opened for user pitr256 by (uid=0)
+<37>sshd(pam_unix)[925]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<37>sshd(pam_unix)[923]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<37>sshd(pam_unix)[919]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<37>sshd(pam_unix)[856]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256
+<37>sshd(pam_unix)[851]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=141.144.161.75  user=pitr256

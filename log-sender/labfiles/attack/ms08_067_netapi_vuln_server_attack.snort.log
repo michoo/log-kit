@@ -1,0 +1,15 @@
+Jul 31 06:17:42 snort kernel: [  191.564420] device eth1 entered promiscuous mode
+Jul 31 06:17:42 snort snort[961]: Decoding Ethernet
+Jul 31 06:17:42 snort snort[961]: Checking PID path...
+Jul 31 06:17:42 snort snort[961]: PID path stat checked out ok, PID path set to /var/run/
+Jul 31 06:17:42 snort snort[961]: Writing PID "961" to file "/var/run//snort_eth1.pid"
+Jul 31 06:17:42 snort snort[961]: Set gid to 1001
+Jul 31 06:17:42 snort snort[961]: Set uid to 1001
+Jul 31 06:17:42 snort snort[961]:
+Jul 31 06:17:42 snort snort[961]:         --== Initialization Complete ==--
+Jul 31 06:17:42 snort snort[961]: Commencing packet processing (pid=961)
+Jul 31 06:17:48 snort kernel: [  197.940005] eth1: no IPv6 routers present
+Jul 31 06:20:06 snort snort[961]: [1:17322:1] SHELLCODE x86 OS agnostic fnstenv geteip dword xor decoder [Classification: Executable Code was Detected] [Priority: 1] {TCP} 192.168.30.33:37274 -> 192.168.20.40:445
+Jul 31 06:20:06 snort snort[961]: [1:14782:13] NETBIOS DCERPC NCACN-IP-TCP srvsvc NetrpPathCanonicalize path canonicalization stack overflow attempt [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.30.33:37274 -> 192.168.20.40:445
+Jul 31 06:20:06 snort snort[961]: [1:7209:13] NETBIOS DCERPC NCACN-IP-TCP srvsvc NetrPathCanonicalize overflow attempt [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.30.33:37274 -> 192.168.20.40:445
+Jul 31 06:20:07 snort snort[961]: [1:2123:5] INDICATOR-COMPROMISE Microsoft cmd.exe banner [Classification: Successful Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.20.40:1037 -> 192.168.40.44:80

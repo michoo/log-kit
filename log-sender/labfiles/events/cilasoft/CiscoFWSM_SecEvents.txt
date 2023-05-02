@@ -1,0 +1,24 @@
+%FWSM-3-106011: Deny inbound (No xlate) tcp src outside:212.44.21.2 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-3-106011: Deny inbound (No xlate) tcp src outside:210.22.10.6 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-6-106100: access-list PERMIT_RULE_65 permitted udp outside/210.22.10.6(60219) -> inside/10.3.18.96(21) hit-cnt 1 (first hit) [0xd136324, 0x0]
+%FWSM-6-106100: access-list PERMIT_RULE_65 permitted udp outside/176.112.28.101(30172) -> inside/10.3.18.96(21) hit-cnt 1 (first hit) [0xd136324, 0x0]
+%FWSM-3-106011: Deny inbound (No xlate) tcp src outside:172.217.19.131 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-3-106011: Deny inbound (No xlate) tcp src outside:172.217.16.67 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-3-106011: Deny inbound (No xlate) tcp src outside:195.24.247.151 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-3-106011: Deny inbound (No xlate) tcp src outside:66.199.229.164 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-3-106011: Deny inbound (No xlate) tcp src outside:176.112.28.101 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-3-106011: Deny inbound (No xlate) tcp src outside:213.14.88.162 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-6-106100: access-list PERMIT_RULE_65 permitted udp outside/210.22.10.6(60219) -> inside/10.3.18.96(443) hit-cnt 1 (first hit) [0xd136324, 0x0]
+%FWSM-6-106100: access-list PERMIT_RULE_65 permitted udp outside/176.112.28.101(30172) -> inside/10.3.18.96(443) hit-cnt 1 (first hit) [0xd136324, 0x0]
+%FWSM-3-106014: Deny inbound icmp src outside:210.22.10.6 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-3-106014: Deny inbound icmp src outside:210.22.10.6 dst inside:10.3.18.69 (type 8, code 0)
+%FWSM-3-106014: Deny inbound icmp src outside:210.22.10.6 dst inside:10.3.18.10 (type 8, code 0)
+%FWSM-3-106014: Deny inbound icmp src outside:210.22.10.6 dst inside:10.3.18.11 (type 8, code 0)
+%FWSM-3-106014: Deny inbound icmp src outside:176.112.28.101 dst inside:10.3.18.1 (type 8, code 0)
+%FWSM-3-106014: Deny inbound icmp src outside:210.22.10.6 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-3-106014: Deny inbound icmp src outside:210.22.10.6 dst inside:10.3.18.69 (type 8, code 0)
+%FWSM-3-106014: Deny inbound icmp src outside:176.112.28.101 dst inside:10.3.18.69 (type 8, code 0)
+%FWSM-3-106014: Deny inbound icmp src outside:210.22.10.6 dst inside:10.3.18.69 (type 8, code 0)
+%FWSM-3-106014: Deny inbound icmp src outside:210.22.10.6 dst inside:10.3.18.96 (type 8, code 0)
+%FWSM-1-106021: Deny protocol reverse path check from 210.22.10.6 to 10.3.18.1 on interface outside
+%FWSM-5-111005: 210.22.10.6 end configuration: OK

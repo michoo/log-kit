@@ -1,0 +1,330 @@
+<142>NetworkAccess[13576]: [E519903@Employee] <1a7e7> Open Network Access Connection using remote IP address 10.10.152.133 
+<142>maintenance[16700]: [n015358@Employee] Logged out Sid = f385d 
+<142>NetworkAccess[4232]: [n014066@Employee] <b91b3> Open Network Access Connection using remote IP address 10.10.196.5 
+<142>NetworkAccess[21297]: [n015586@Employee] <a9821> Network Access Connection terminated 
+<142>maintenance[13378]: [E519903@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[13403]: [E519903@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[13402]: [E519903@Employee] User E519903 logged on from 75.213.171.109 Sid = 1a7e7 
+<142>security[23508]: [-] User [logon denied] logon from 12.154.167.153 
+<142>GarbageCollection[13393]: session 'b4f6f4408ac8eba01dd6e52343300c9c' is expired due to inactivity. User may have logged out improperly. 
+<142>NetworkAccess[699]: [E903941@Employee] <5e0cb> Network Access Connection terminated 
+<142>NetworkAccess[3751]: [C020166@Employee] <fe6d8> Open Network Access Connection using remote IP address 10.10.196.62 
+<142>NetworkAccess[23060]: [J028818@Employee] <e28f6> Open Network Access Connection using remote IP address 10.10.134.66 
+<142>NetworkAccess[10494]: [E903086@Employee] <3ebbd> Open Network Access Connection using remote IP address 10.10.230.97 
+<142>maintenance[3589]: [C020166@Employee] Network Access: dialing Employee_NetAccess 
+<142>NetworkAccess[16241]: [e903788@Employee] <e0efa> Open Network Access Connection using remote IP address 10.10.214.118 
+<142>maintenance[3395]: [C020166@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[2977]: [C020166@Employee] User C020166 logged on from 76.73.216.72 Sid = fe6d8 
+<142>maintenance[10458]: [E903086@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[10393]: [E903086@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[10376]: [E903086@Employee] User E903086 logged on from 24.154.254.181 Sid = 3ebbd 
+<142>maintenance[21508]: [J028818@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[22641]: [J028818@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[20874]: [J028818@Employee] User J028818 logged on from 75.219.79.11 Sid = e28f6 
+<142>security[3068]: [-] User [logon denied] logon from 12.154.167.153 
+<142>NetworkAccess[20883]: [e019634@Employee] <ab269> Open Network Access Connection using remote IP address 10.10.221.115 
+<142>maintenance[20859]: [e019634@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[20569]: [e019634@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[20681]: [e019634@Employee] User e019634 logged on from 75.213.207.61 Sid = ab269 
+<142>NetworkAccess[20476]: [J030111@Employee] <8ddce> Network Access Connection terminated 
+<142>NetworkAccess[12070]: [E051008@Employee] <dfe46> Open Network Access Connection using remote IP address 10.10.150.154 
+<142>NetworkAccess[12735]: [n014187@vendor_support] <f41f6> Open Network Access Connection using remote IP address 10.10.189.145 
+<142>NetworkAccess[6815]: [J034141@Employee] <12958> Network Access Connection terminated 
+<142>maintenance[12686]: [n014187@vendor_support] Network Access: dialing Vendor Infosys09 
+<142>maintenance[12585]: [n014187@vendor_support] Network Access: dialing Vendor Infosys09 
+<142>security[12520]: [n014187@vendor_support] User n014187 logged on from 121.243.119.122 Sid = f41f6 
+<142>NetworkAccess[11794]: [e901985@Employee] <dd76d> Open Network Access Connection using remote IP address 10.10.150.36 
+<142>snmp[11206]: SNMP handler stopped 
+<142>snmp[11206]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[11206]: running get-oid 
+<142>snmp[11206]: ping: "PING" 
+<142>security[21464]: [-] User [logon denied] logon from 12.154.167.153 
+<142>NetworkAccess[15710]: [j012658@Employee] <8ee01> Network Access Connection terminated 
+<142>NetworkAccess[14413]: [J001657@Employee] <b21b4> Open Network Access Connection using remote IP address 10.10.163.178 
+<142>NetworkAccess[9766]: [J029496@Employee] <13a3b> Open Network Access Connection using remote IP address 10.10.230.96 
+<142>NetworkAccess[14399]: [J001657@Employee] <b21b4> Network Access Connection terminated 
+<142>NetworkAccess[14399]: [J001657@Employee] <b21b4> Open Network Access Connection using remote IP address 10.10.163.178 
+<142>NetworkAccess[21297]: [n015586@Employee] <a9821> Open Network Access Connection using remote IP address 10.10.134.50 
+<142>snmp[3630]: session-info: sess-number: 155 
+<142>snmp[3630]: running get-oid 
+<142>snmp[3630]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[3630]: ping: "PING" 
+<142>NetworkAccess[14256]: [J001657@Employee] <b21b4> Open Network Access Connection using remote IP address 10.10.163.178 
+<142>GarbageCollection[21392]: session '1aaf80c9784d93d959410826251e038b' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[20451]: session '55ce92eadee07e03032a25d8f4265a13' is expired due to inactivity. User may have logged out improperly. 
+<142>maintenance[9712]: [J029496@Employee] Network Access: dialing Employee_NetAccess 
+<142>NetworkAccess[14251]: [J001657@Employee] <b21b4> Open Network Access Connection using remote IP address 10.10.163.178 
+<142>maintenance[9574]: [J029496@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[9558]: [J029496@Employee] User J029496 logged on from 75.195.93.93 Sid = 13a3b 
+<142>NetworkAccess[29960]: [J001657@Employee] <b21b4> Network Access Connection terminated 
+<142>snmp[25218]: session-info: sess-number: 172 
+<142>snmp[25218]: running get-oid 
+<142>snmp[25218]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[25218]: ping: "PING" 
+<142>snmp[26656]: session-info: sess-number: 189 
+<142>snmp[26656]: running get-oid 
+<142>snmp[26656]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[26656]: ping: "PING" 
+<142>NetworkAccess[11494]: [e913864@Employee] <db7c2> Open Network Access Connection using remote IP address 10.10.150.133 
+<142>NetworkAccess[1005]: [n015589@Employee] <80106> Open Network Access Connection using remote IP address 10.10.196.61 
+<142>snmp[21334]: SNMP handler stopped 
+<142>snmp[21334]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[21334]: running get-oid 
+<142>snmp[21334]: ping: "PING" 
+<142>NetworkAccess[30395]: [n015358@Employee] <f385d> Network Access Connection terminated 
+<142>maintenance[886]: [n015589@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[815]: [n015589@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[32681]: [n015589@Employee] User n015589 logged on from 208.185.196.35 Sid = 80106 
+<142>security[582]: [-] User [logon denied] logon from 12.154.167.153 
+<142>GarbageCollection[20347]: session 'e27fbe8f3085cf372e49240ae79d6a0e' is expired due to inactivity. User may have logged out improperly. 
+<142>NetworkAccess[32581]: [j013518@Employee] <b1776> Open Network Access Connection using remote IP address 10.10.195.198 
+<142>NetworkAccess[19858]: [n005418@Employee] <3b6a9> Open Network Access Connection using remote IP address 10.10.221.114 
+<142>maintenance[19758]: [n005418@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[19678]: [n005418@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[19645]: [n005418@Employee] User n005418 logged on from 67.201.81.9 Sid = 3b6a9 
+<142>NetworkAccess[17516]: [n010744@Employee] <b3a26> Network Access Connection terminated 
+<142>NetworkAccess[19640]: [n001328@Employee] <9a1ad> Open Network Access Connection using remote IP address 10.10.221.37 
+<142>security[18804]: [-] User [logon denied] logon from 12.154.167.153 
+<142>NetworkAccess[11891]: [n014035@vendor_support] <d5789> Network Access Connection terminated 
+<142>NetworkAccess[19586]: [n001328@Employee] <9a1ad> Network Access Connection terminated 
+<142>NetworkAccess[19586]: [n001328@Employee] <9a1ad> Open Network Access Connection using remote IP address 10.10.221.37 
+<142>GarbageCollection[8992]: session '95710d84f639a7f0e7303f4862d4d928' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[31503]: session '1320354053a26c5f95f9c33b30aaf202' is expired due to inactivity. User may have logged out improperly. 
+<142>NetworkAccess[11635]: [J029377@Employee] <09eb8> Open Network Access Connection using remote IP address 10.10.152.132 
+<142>maintenance[11580]: [J029377@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[11053]: [J029377@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[11489]: [J029377@Employee] User J029377 logged on from 75.194.215.67 Sid = 09eb8 
+<142>security[30343]: [-] User [logon denied] logon from 12.154.167.153 
+<142>NetworkAccess[19101]: [n013394@vendor_support] <e1c14> Network Access Connection terminated 
+<142>NetworkAccess[11472]: [J031604@Employee] <f026c> Open Network Access Connection using remote IP address 10.10.152.131 
+<142>maintenance[11191]: [J031604@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[11190]: [J031604@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[11373]: [J031604@Employee] User J031604 logged on from 96.238.8.143 Sid = f026c 
+<142>NetworkAccess[11332]: [E042517@Employee] <cdbae> Open Network Access Connection using remote IP address 10.10.152.130 
+<142>NetworkAccess[29624]: [j013518@Employee] <b1776> Open Network Access Connection using remote IP address 10.10.195.198 
+<142>GarbageCollection[14793]: session '314bffd4a338f18e0e94b9cb623361c9' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[11328]: session 'e296291119a2175d23ca5e1118b23f63' is expired due to inactivity. User may have logged out improperly. 
+<142>maintenance[11261]: [E042517@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[11180]: [E042517@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[10974]: [E042517@Employee] User E042517 logged on from 208.54.7.141 Sid = cdbae 
+<142>NetworkAccess[5432]: [E045173@Employee] <bea19> Network Access Connection terminated 
+<142>NetworkAccess[10334]: [E902039@Employee] <abd5b> Open Network Access Connection using remote IP address 10.10.150.94 
+<142>NetworkAccess[25986]: [E902039@Employee] <abd5b> Network Access Connection terminated 
+<142>NetworkAccess[729]: [e924097@Employee] <a16f9> Network Access Connection terminated 
+<142>NetworkAccess[8425]: [n017619@Employee] <6cfe7> Open Network Access Connection using remote IP address 10.10.230.95 
+<142>maintenance[8416]: [n017619@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[8343]: [n017619@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[8311]: [n017619@Employee] User n017619 logged on from 64.134.70.65 Sid = 6cfe7 
+<142>NetworkAccess[3288]: [e911242@Employee] <b48ac> Network Access Connection terminated 
+<142>NetworkAccess[10969]: [e904502@Employee] <c462f> Open Network Access Connection using remote IP address 10.10.159.158 
+<142>NetworkAccess[17416]: [e919850@Employee] <54cdd> Open Network Access Connection using remote IP address 10.10.133.180 
+<142>NetworkAccess[4388]: [E931547@Employee] <a139a> Network Access Connection terminated 
+<142>security[16921]: [-] User [logon denied] logon from 12.154.167.153 
+<142>GarbageCollection[18863]: session 'ba5f018eb1b50bc57eb04f1a3ff5b3f8' is terminated. 
+<142>GarbageCollection[29136]: session '49c1a683550d818508076e29fb751bd6' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[29136]: session '613977b6913a2ab6ea67bb3445566111' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[10203]: session '1849ba4cb560e309be60ce5de5de9dd4' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[17230]: session '3b8ddc6b4e43e08ae135a246b5da4dfa' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[14403]: session '9007d2f71357fc4ff5d67307901af506' is terminated. 
+<142>NetworkAccess[18591]: [n008492@Employee] <25b03> Open Network Access Connection using remote IP address 10.10.221.1 
+<142>NetworkAccess[10091]: [n017382@vendor_support] <75f36> Open Network Access Connection using remote IP address 10.10.187.200 
+<142>NetworkAccess[5006]: [J029308@Employee] <ce4c6> Network Access Connection terminated 
+<142>NetworkAccess[28722]: [n003176@Employee] <e46b4> Open Network Access Connection using remote IP address 10.10.196.60 
+<142>maintenance[9716]: [n017382@vendor_support] Network Access: dialing Vendor Infosys09 
+<142>NetworkAccess[16909]: [J035130@Employee] <cf565> Open Network Access Connection using remote IP address 10.10.134.65 
+<142>maintenance[9667]: [n017382@vendor_support] Network Access: dialing Vendor Infosys09 
+<142>NetworkAccess[6354]: [e904502@Employee] <c462f> Network Access Connection terminated 
+<142>maintenance[16458]: [J035130@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[9837]: [n017382@vendor_support] User n017382 logged on from 125.22.196.202 Sid = 75f36 
+<142>maintenance[16412]: [J035130@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[16364]: [J035130@Employee] User J035130 logged on from 75.207.89.204 Sid = cf565 
+<142>maintenance[28594]: [n003176@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[28214]: [n003176@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[28215]: [n003176@Employee] User n003176 logged on from 68.227.185.50 Sid = e46b4 
+<142>maintenance[14065]: [n009756@Employee] Logged out Sid = 9007d 
+<142>NetworkAccess[18764]: [n009756@Employee] <9007d> Network Access Connection terminated 
+<142>NetworkAccess[24159]: [n011061@Employee] <ba5f0> Network Access Connection terminated 
+<142>maintenance[18482]: [n011061@Employee] Logged out Sid = ba5f0 
+<142>security[28144]: [-] User [logon denied] logon from 12.154.167.153 
+<142>NetworkAccess[7764]: [J026061@Employee] <ae046> Open Network Access Connection using remote IP address 10.10.228.232 
+<142>snmp[11206]: session-info: sess-number: 194 
+<142>snmp[11206]: running get-oid 
+<142>snmp[11206]: ping: "PING" 
+<142>snmp[11206]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>GarbageCollection[10491]: session '4140f43c7f7621b3fc0e0d9867a87a96' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[10491]: session 'bbb501a0d33fd1c18ec8040cdf705b9f' is terminated. 
+<142>GarbageCollection[7782]: session 'bd7fdac301f5775135a5af41a497534f' is expired due to inactivity. User may have logged out improperly. 
+<142>snmp[3630]: session-info: sess-number: 156 
+<142>snmp[3630]: running get-oid 
+<142>snmp[3630]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[3630]: ping: "PING" 
+<142>NetworkAccess[7435]: [J023985@Employee] <63fbf> Open Network Access Connection using remote IP address 10.10.230.43 
+<142>snmp[25218]: session-info: sess-number: 173 
+<142>snmp[25218]: running get-oid 
+<142>snmp[25218]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[25218]: ping: "PING" 
+<142>maintenance[10046]: [n017382@vendor_support] Logged out Sid = bbb50 
+<142>NetworkAccess[13497]: [n017382@vendor_support] <bbb50> Network Access Connection terminated 
+<142>snmp[26656]: running get-oid 
+<142>snmp[26656]: session-info: sess-number: 189 
+<142>snmp[26656]: ping: "PING" 
+<142>snmp[26656]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>NetworkAccess[9486]: [J033693@Employee] <d8136> Open Network Access Connection using remote IP address 10.10.150.163 
+<142>NetworkAccess[8179]: [J033693@Employee] <d8136> Network Access Connection terminated 
+<142>NetworkAccess[30997]: [j016031@Employee] <0a8a8> Network Access Connection terminated 
+<142>NetworkAccess[9389]: [e901985@Employee] <dd76d> Open Network Access Connection using remote IP address 10.10.150.36 
+<142>snmp[21334]: session-info: sess-number: 176 
+<142>snmp[21334]: running get-oid 
+<142>snmp[21334]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[21334]: ping: "PING" 
+<142>security[14426]: [-] User [logon denied] logon from 12.154.167.153 
+<142>NetworkAccess[10034]: [J031882@Employee] <377f2> Open Network Access Connection using remote IP address 10.10.152.129 
+<142>NetworkAccess[25735]: [E910905@Employee] <5f84b> Network Access Connection terminated 
+<142>GarbageCollection[13610]: session '42a97d6814e7a8408f68c0fc0c2d4edf' is expired due to inactivity. User may have logged out improperly. 
+<142>NetworkAccess[13403]: [h993603@Employee] <c28ba> Open Network Access Connection using remote IP address 10.10.214.207 
+<142>maintenance[9978]: [J031882@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[9840]: [J031882@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[9778]: [J031882@Employee] User J031882 logged on from 75.195.12.239 Sid = 377f2 
+<142>NetworkAccess[11932]: [e929954@Employee] <7e2ce> Open Network Access Connection using remote IP address 10.10.164.53 
+<142>NetworkAccess[8473]: [n001328@Employee] <9a1ad> Network Access Connection terminated 
+<142>maintenance[11889]: [e929954@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[11616]: [e929954@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[11764]: [e929954@Employee] User e929954 logged on from 75.226.87.232 Sid = 7e2ce 
+<142>security[25409]: [-] User [logon denied] logon from 12.154.167.153 
+<142>NetworkAccess[6815]: [J034141@Employee] <12958> Open Network Access Connection using remote IP address 10.10.230.89 
+<142>NetworkAccess[17655]: [J012950@Employee] <868ad> Open Network Access Connection using remote IP address 10.10.221.113 
+<142>NetworkAccess[25396]: [E200224@Employee] <144fd> Open Network Access Connection using remote IP address 10.10.195.137 
+<142>maintenance[17601]: [J012950@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[17254]: [J012950@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[17486]: [J012950@Employee] User J012950 logged on from 108.16.111.70 Sid = 868ad 
+<142>NetworkAccess[694]: [e903788@Employee] <e0efa> Network Access Connection terminated 
+<142>NetworkAccess[17446]: [N015381@Employee] <dd36e> Open Network Access Connection using remote IP address 10.10.221.112 
+<142>NetworkAccess[30569]: [J034141@Employee] <12958> Network Access Connection terminated 
+<142>NetworkAccess[17265]: [N015381@Employee] <dd36e> Network Access Connection terminated 
+<142>NetworkAccess[13154]: [E043460@Employee] <5d5e6> Open Network Access Connection using remote IP address 10.10.215.1 
+<142>GarbageCollection[14168]: session '7dc20d4cffb84f276d2c21fa7cbad36c' is expired due to inactivity. User may have logged out improperly. 
+<142>NetworkAccess[17265]: [N015381@Employee] <dd36e> Open Network Access Connection using remote IP address 10.10.221.112 
+<139>NetworkAccess[14025]: [-] <f6a36> Error - Session disconnected due to inactivity or logout from webtop without closing Network Access connection. 
+<139>NetworkAccess[13859]: [-] <f6a36> Error - Session disconnected due to inactivity or logout from webtop without closing Network Access connection. 
+<142>NetworkAccess[17255]: [N015381@Employee] <dd36e> Open Network Access Connection using remote IP address 10.10.221.112 
+<142>maintenance[12900]: [E043460@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[12915]: [E043460@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[12914]: [E043460@Employee] User E043460 logged on from 75.40.83.142 Sid = 5d5e6 
+<139>NetworkAccess[13858]: [-] <f6a36> Error - Session disconnected due to inactivity or logout from webtop without closing Network Access connection. 
+<142>NetworkAccess[5232]: [j029053@Employee] <d443a> Network Access Connection terminated 
+<142>NetworkAccess[9623]: [J035130@Employee] <f6a36> Network Access Connection terminated 
+<142>NetworkAccess[27789]: [N011988@Employee] <a05de> Network Access Connection terminated 
+<142>NetworkAccess[22836]: [N014604@Employee] <6cc44> Network Access Connection terminated 
+<142>NetworkAccess[17262]: [N015381@Employee] <dd36e> Network Access Connection terminated 
+<142>NetworkAccess[23021]: [J009360@Employee] <b2689> Network Access Connection terminated 
+<142>NetworkAccess[12901]: [j006855@Employee] <6c50a> Open Network Access Connection using remote IP address 10.10.215.0 
+<142>NetworkAccess[17262]: [N015381@Employee] <dd36e> Open Network Access Connection using remote IP address 10.10.221.112 
+<142>NetworkAccess[8657]: [J025449@Employee] <da3eb> Open Network Access Connection using remote IP address 10.10.150.164 
+<142>maintenance[12781]: [j006855@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[12775]: [j006855@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[12552]: [j006855@Employee] User j006855 logged on from 64.252.202.78 Sid = 6c50a 
+<142>NetworkAccess[32005]: [J028395@Employee] <458bc> Network Access Connection terminated 
+<142>maintenance[8505]: [J025449@Employee] Network Access: dialing Employee_NetAccess 
+<142>NetworkAccess[6219]: [h993603@Employee] <c28ba> Network Access Connection terminated 
+<142>maintenance[8573]: [J025449@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[8527]: [J025449@Employee] User J025449 logged on from 71.79.23.21 Sid = da3eb 
+<142>maintenance[17209]: [N015381@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[17195]: [N015381@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[17165]: [N015381@Employee] User N015381 logged on from 75.198.173.168 Sid = dd36e 
+<142>security[12949]: [-] User [logon denied] logon from 12.154.167.153 
+<142>GarbageCollection[9298]: session 'cdb06ccd92ab9011fe659aad2db846bb' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[8515]: session '3ac975e55abbbd6c932da8d7256ec8f4' is expired due to inactivity. User may have logged out improperly. 
+<142>GarbageCollection[13108]: session 'f6a36b76ebc8b3547c9b7d31e7705b51' is terminated. 
+<142>GarbageCollection[12726]: session '177f279ab3c760667acd76b0cd855007' is expired due to inactivity. User may have logged out improperly. 
+<142>NetworkAccess[16139]: [E611908@Employee] <51a76> Network Access Connection terminated 
+<142>maintenance[12865]: [J035130@Employee] Logged out Sid = f6a36 
+<142>maintenance[12809]: [J035130@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[12350]: [J035130@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[12349]: [J035130@Employee] User J035130 logged on from 75.207.36.28 Sid = f6a36 
+<142>NetworkAccess[8179]: [J033693@Employee] <d8136> Open Network Access Connection using remote IP address 10.10.150.163 
+<142>NetworkAccess[15463]: [N015589@Employee] <b810e> Network Access Connection terminated 
+<142>maintenance[8199]: [J033693@Employee] Network Access: dialing Employee_NetAccess 
+<142>NetworkAccess[11107]: [N014797@Employee] <bc464> Open Network Access Connection using remote IP address 10.10.164.52 
+<142>maintenance[8197]: [J033693@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[8196]: [J033693@Employee] User J033693 logged on from 24.38.184.122 Sid = d8136 
+<142>maintenance[11053]: [N014797@Employee] Network Access: dialing Employee_NetAccess 
+<142>NetworkAccess[12227]: [e923341@Employee] <664ec> Open Network Access Connection using remote IP address 10.10.214.254 
+<142>maintenance[11017]: [N014797@Employee] Network Access: dialing Employee_NetAccess 
+<142>NetworkAccess[12263]: [e923341@Employee] <664ec> Network Access Connection terminated 
+<142>security[10980]: [N014797@Employee] User N014797 logged on from 72.209.56.187 Sid = bc464 
+<142>NetworkAccess[16808]: [n014670@Employee] <29c10> Open Network Access Connection using remote IP address 10.10.221.111 
+<142>security[22319]: [-] User [logon denied] logon from 12.154.167.153 
+<142>NetworkAccess[8184]: [J032736@Employee] <3bbdd> Open Network Access Connection using remote IP address 10.10.150.162 
+<142>maintenance[16801]: [n014670@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[7912]: [J032736@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[8059]: [J032736@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[7860]: [J032736@Employee] User J032736 logged on from 72.70.117.177 Sid = 3bbdd 
+<142>maintenance[16689]: [n014670@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[16635]: [n014670@Employee] User n014670 logged on from 146.115.27.204 Sid = 29c10 
+<142>NetworkAccess[18037]: [N016024@Employee] <c5efc> Network Access Connection terminated 
+<142>NetworkAccess[10641]: [e919699@Employee] <867d4> Open Network Access Connection using remote IP address 10.10.163.164 
+<142>NetworkAccess[5763]: [z004814@Employee] <50ef6> Open Network Access Connection using remote IP address 10.10.229.172 
+<142>GarbageCollection[10796]: session '66a521a272bf6e42093f9d54717d16ce' is expired due to inactivity. User may have logged out improperly. 
+<142>NetworkAccess[12263]: [e923341@Employee] <664ec> Open Network Access Connection using remote IP address 10.10.214.254 
+<142>maintenance[12175]: [e923341@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[12157]: [e923341@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[12097]: [e923341@Employee] User e923341 logged on from 96.233.138.246 Sid = 664ec 
+<142>NetworkAccess[8634]: [e020496@Employee] <0f3e7> Open Network Access Connection using remote IP address 10.10.152.128 
+<142>maintenance[8239]: [e020496@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[8385]: [e020496@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[8384]: [e020496@Employee] User e020496 logged on from 75.251.83.242 Sid = 0f3e7 
+<142>NetworkAccess[19155]: [J003056@Employee] <563f4> Network Access Connection terminated 
+<142>snmp[11206]: session-info: sess-number: 196 
+<142>snmp[11206]: running get-oid 
+<142>snmp[11206]: ping: "PING" 
+<142>snmp[11206]: SNMP handler started 
+<142>security[10842]: [-] User [logon denied] logon from 12.154.167.153 
+<142>snmp[3630]: session-info: sess-number: 153 
+<142>snmp[3630]: running get-oid 
+<142>snmp[3630]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[3630]: ping: "PING" 
+<142>GarbageCollection[7694]: session 'a5e36264e631673f3e58c8fb9339e950' is expired due to inactivity. User may have logged out improperly. 
+<142>NetworkAccess[16219]: [j024704@Employee] <641e3> Open Network Access Connection using remote IP address 10.10.221.110 
+<142>snmp[25218]: session-info: myDB: #<procedure> 
+<142>snmp[25218]: running get-oid 
+<142>snmp[25218]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[25218]: ping: "PING" 
+<142>maintenance[16167]: [j024704@Employee] Network Access: dialing Employee_NetAccess 
+<142>NetworkAccess[10583]: [z940322@Employee] <48fb8> Open Network Access Connection using remote IP address 10.10.130.237 
+<142>maintenance[16124]: [j024704@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[16137]: [j024704@Employee] User j024704 logged on from 68.81.109.55 Sid = 641e3 
+<142>NetworkAccess[16139]: [E611908@Employee] <51a76> Open Network Access Connection using remote IP address 10.10.221.109 
+<142>maintenance[16080]: [E611908@Employee] Network Access: dialing Employee_NetAccess 
+<142>snmp[26656]: session-info: sess-number: 188 
+<142>snmp[26656]: ++ command: "get"; oid: ".1.3.6.1.4.1.3375.1.10.100.3.0" 
+<142>snmp[26656]: running get-oid 
+<142>snmp[26656]: ping: "PING" 
+<142>NetworkAccess[7391]: [e901396@Employee] <37417> Open Network Access Connection using remote IP address 10.10.150.52 
+<142>maintenance[16042]: [E611908@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[16035]: [E611908@Employee] User E611908 logged on from 96.237.110.127 Sid = 51a76 
+<142>snmp[21334]: session-info: sess-number: 176 
+<142>snmp[21334]: running get-oid 
+<142>snmp[21334]: ping: "PING" 
+<142>snmp[21334]: SNMP handler started 
+<142>NetworkAccess[7280]: [J028061@Employee] <a2070> Open Network Access Connection using remote IP address 10.10.146.243 
+<142>security[20874]: [-] User [logon denied] logon from 12.154.167.153 
+<142>NetworkAccess[7006]: [e901396@Employee] <37417> Open Network Access Connection using remote IP address 10.10.150.52 
+<142>NetworkAccess[9623]: [J035130@Employee] <f6a36> Open Network Access Connection using remote IP address 10.10.134.64 
+<142>maintenance[9008]: [J035130@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[9044]: [J035130@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[9043]: [J035130@Employee] User J035130 logged on from 75.207.36.28 Sid = f6a36 
+<142>NetworkAccess[4760]: [e519972@Employee] <278a5> Network Access Connection terminated 
+<142>NetworkAccess[11247]: [j005117@Employee] <e5c44> Open Network Access Connection using remote IP address 10.10.214.253 
+<142>NetworkAccess[18037]: [N016024@Employee] <c5efc> Open Network Access Connection using remote IP address 10.10.196.20 
+<142>maintenance[11063]: [j005117@Employee] Network Access: dialing Employee_NetAccess 
+<142>NetworkAccess[19332]: [J029882@Employee] <12f7b> Open Network Access Connection using remote IP address 10.10.196.59 
+<142>maintenance[10889]: [j005117@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[10827]: [j005117@Employee] User j005117 logged on from 74.70.98.251 Sid = e5c44 
+<142>security[8700]: [-] User [logon denied] logon from 12.154.167.153 
+<142>maintenance[19118]: [J029882@Employee] Network Access: dialing Employee_NetAccess 
+<142>maintenance[18549]: [J029882@Employee] Network Access: dialing Employee_NetAccess 
+<142>security[18548]: [J029882@Employee] User J029882 logged on from 71.205.168.86 Sid = 12f7b 
+<142>NetworkAccess[8445]: [n016350@Employee] <3c332> Open Network Access Connection using remote IP address 10.10.134.63 
+<142>NetworkAccess[15122]: [j024453@Employee] <78ba2> Network Access Connection terminated 
+<142>NetworkAccess[7497]: [E611425@Employee] <571a1> Open Network Access Connection using remote IP address 10.10.152.127 
+<142>NetworkAccess[4654]: [n013622@Employee] <dfd7c> Network Access Connection terminated 

@@ -1,0 +1,7 @@
+DEVICE_NAME=auto_netscreenfw
+SENSOR_DEVICE_TYPE=Juniper Networks NetScreen Firewall
+DEVICE_DESCRIPTION=NetScreen Firewall
+DEFAULT_DEVICE_HOSTNAME=juniper.netscreenfw.test.com
+DEVICE_TYPE_ID=5
+AUTODISCOVERABLE=true
+

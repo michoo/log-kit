@@ -1,0 +1,10 @@
+Aug  4 20:55:51 f5networks.bigip.test.com mcpd[753]: 01070417:5: AUDIT - user bmukesh_in - transaction #3858381-1 - object 783 - modify { pool_member { pool_member_pool_name "content_prod_http_pool" pool_member_addr 138.1.186.62 pool_member_port 7778 pool_member_monitor_state 2 pool_member_new_session_enable 0 } } 
+Aug  4 20:55:51 f5networks.bigip.test.com mcpd[753]: 01070639:3: Pool member 138.1.186.62:7778 session status disabled.
+Aug  6 04:15:04 f5networks.bigip.test.com kernel: idle_http_handle_packets_from_server: new data on idle connection: server: 141.146.32.7:80
+Aug  5 10:29:42 f5networks.bigip.test.com [518]: AUDIT -- Modify VIPBOX 141.146.8.32:80  User: ERPW
+Aug  5 10:43:52 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Modify VIPBOX 141.146.8.38:80 (Parent: VIPHEAD 141.146.8.38)  User: njyrala_fi
+Aug  4 20:32:01 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Modify MONITOR_INSTANCE 141.146.13.122:7780  User: candani_us
+Aug  4 20:32:01 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Action NODEBOX 141.146.13.122:7780  User: candani_us
+Aug  4 02:18:27 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Delete MEMBER 141.146.12.131:2920 (Parent: POOL gsi_store_http)  User: iharimur_sg
+Aug  4 02:18:27 f5networks.bigip.test.com kernel: Pool (gsi_store_http) member 141.146.12.133:2920 **deleted**
+Aug  4 02:22:40 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Create MEMBER 141.146.12.134:2920 (Parent: POOL gsi_store_http)  User: iharimur_sg

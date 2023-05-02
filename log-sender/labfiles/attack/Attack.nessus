@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<NessusClientData_v2>
+<Policy>
+</Policy>
+<Report name="windows">
+<ReportHost name="192.168.20.40"><HostProperties>
+<tag name="HOST_END">Wed Oct 17 17:34:48 2012</tag>
+<tag name="MS08-067">958644</tag>
+<tag name="system-type">general-purpose</tag>
+<tag name="operating-system">Microsoft Windows XP Professional</tag>
+<tag name="host-fqdn">WINXPSP2</tag>
+<tag name="mac-address">00:50:56:bb:bb:bb</tag>
+<tag name="host-ip">192.168.20.40</tag>
+<tag name="smb-login-used">192.168.20.40\Administrator</tag>
+<tag name="local-checks-proto">smb</tag>
+<tag name="netbios-name">WINXPSP2</tag>
+<tag name="HOST_START">Wed Oct 17 17:34:48 2012</tag>
+</HostProperties>
+<ReportItem port="21" svc_name="ftp" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="25" svc_name="smtp" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="80" svc_name="www" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="123" svc_name="ntp" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="135" svc_name="epmap" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="137" svc_name="netbios-ns" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="138" svc_name="netbios-dgm?" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="139" svc_name="smb" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="161" svc_name="snmp" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="443" svc_name="https?" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="445" svc_name="cifs" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="445" svc_name="microsoft-ds?" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="500" svc_name="isakmp?" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="1025" svc_name="dce-rpc" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="1038" svc_name="dce-rpc" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="1433" svc_name="mssql" protocol="tcp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="1434" svc_name="ms-sql-m?" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="1900" svc_name="ssdp?" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="3456" svc_name="vat?" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="4500" svc_name="ipsec-nat-t?" protocol="udp" severity="0" pluginID="0" pluginName="" pluginFamily=""/>
+<ReportItem port="445" svc_name="cifs" protocol="tcp" severity="3" pluginID="34476" pluginName="MS08-067: Microsoft Windows Server Service Crafted RPC Request Handling Unspecified Remote Code Execution (958644)" pluginFamily="Windows : Microsoft Bulletins">
+<exploitability_ease>Exploits are available</exploitability_ease><exploit_framework_canvas>true</exploit_framework_canvas><exploit_framework_metasploit>true</exploit_framework_metasploit><cpe>cpe:/o:microsoft:windows</cpe><cvss_temporal_vector>CVSS2#E:H/RL:OF/RC:C</cvss_temporal_vector><exploit_framework_core>true</exploit_framework_core><solution>Microsoft has released a set of patches for Windows 2000, XP, 2003, Vista and 2008 :
+
+http://technet.microsoft.com/en-us/security/bulletin/ms08-067</solution><cvss_temporal_score>8.7</cvss_temporal_score><risk_factor>Critical</risk_factor><description>The remote host is vulnerable to a buffer overrun in the &apos;Server&apos; service
+that could allow an attacker to execute arbitrary code on the remote host
+with the &apos;System&apos; privileges.</description><plugin_publication_date>2008/10/23</plugin_publication_date><metasploit_name>Microsoft Server Service Relative Path Stack Corruption</metasploit_name><cvss_vector>CVSS2#AV:N/AC:L/Au:N/C:C/I:C/A:C</cvss_vector><synopsis>Arbitrary code can be executed on the remote host due to a flaw in the 
+&apos;server&apos; service.</synopsis><plugin_type>local</plugin_type><exploit_available>true</exploit_available><plugin_modification_date>2011/12/12</plugin_modification_date><stig_severity>I</stig_severity><cvss_base_score>10.0</cvss_base_score><canvas_package>CANVAS</canvas_package><cve>CVE-2008-4250</cve>
+<bid>31874</bid>
+<xref>OSVDB:49243</xref>
+<xref>IAVA:2008-A-0081</xref>
+<xref>MSFT:MS08-067</xref>
+<xref>CWE:94</xref>
+<plugin_output>
+- C:\WINDOWS\system32\Netapi32.dll has not been patched
+    Remote version : 5.1.2600.2180
+    Should be : 5.1.2600.3462
+
+</plugin_output>
+<plugin_version>$Revision: 1.18 $</plugin_version></ReportItem>
+</ReportHost>
+</Report>
+</NessusClientData_v2>

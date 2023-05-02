@@ -1,0 +1,70 @@
+<78>Aug 15 13:22:01 gnu.linuxserver.test.com CROND[7179]: (root) CMD (/usr/local/bin/watch > /dev/null 2>&1 /dev/null)
+<83>Aug 15 13:22:11 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:22:11 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<85>Aug 15 13:22:11 gnu.linuxserver.test.com chk_pwd: pam_unix(chk_pwd:auth): authentication failure; logname= uid=4288 euid=0 tty= ruser= rhost=  user=aus0241
+<83>Aug 15 13:22:13 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:22:13 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<83>Aug 15 13:22:15 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:22:15 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<85>Aug 15 13:22:15 gnu.linuxserver.test.com chk_pwd: pam_unix(chk_pwd:auth): authentication failure; logname= uid=4327 euid=0 tty= ruser= rhost=  user=aus0531
+<83>Aug 15 13:22:16 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<83>Aug 15 13:22:16 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:22:24 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:22:24 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<85>Aug 15 13:22:24 gnu.linuxserver.test.com chk_pwd: pam_unix(chk_pwd:auth): authentication failure; logname= uid=4301 euid=0 tty= ruser= rhost=  user=aus0471
+<83>Aug 15 13:22:26 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:22:26 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<83>Aug 15 13:22:36 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:22:36 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<85>Aug 15 13:22:36 gnu.linuxserver.test.com chk_pwd: pam_unix(chk_pwd:auth): authentication failure; logname= uid=4301 euid=0 tty= ruser= rhost=  user=aus0359
+<83>Aug 15 13:22:39 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:22:39 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<78>Aug 15 13:23:01 gnu.linuxserver.test.com CROND[7409]: (root) CMD (/usr/local/bin/watch > /dev/null 2>&1 /dev/null)
+<38>Aug 15 13:23:23 gnu.linuxserver.test.com sshd[7449]: Connection closed by 10.7.41.11
+<30>Aug 15 13:23:27 gnu.linuxserver.test.com xinetd[2367]: START: cpps pid=7450 from=::ffff:127.0.0.1
+<30>Aug 15 13:23:27 gnu.linuxserver.test.com xinetd[2367]: EXIT: cpps signal=13 pid=7450 duration=0(sec)
+<38>Aug 15 13:23:27 gnu.linuxserver.test.com sshd[7452]: Connection closed by 127.0.0.1
+<83>Aug 15 13:23:33 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<83>Aug 15 13:23:33 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<30>Aug 15 13:23:45 gnu.linuxserver.test.com xinetd[2367]: EXIT: cpps status=0 pid=12627 duration=11836(sec)
+<38>Aug 15 13:23:46 gnu.linuxserver.test.com sshd[8247]: Received disconnect from 10.127.97.57: 2: Client loop terminated
+<83>Aug 15 13:23:46 gnu.linuxserver.test.com sshd[8217]: pam_tally2(sshd:setcred): unknown option: per_user
+<86>Aug 15 13:23:46 gnu.linuxserver.test.com sshd[8217]: pam_unix(sshd:session): session closed for user aus9044
+<83>Aug 15 13:23:47 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<83>Aug 15 13:23:47 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<85>Aug 15 13:23:47 gnu.linuxserver.test.com chk_pwd: pam_unix(chk_pwd:auth): authentication failure; logname= uid=4077 euid=0 tty= ruser= rhost=  user=aus0649
+<83>Aug 15 13:23:49 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<83>Aug 15 13:23:49 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<30>Aug 15 13:23:59 gnu.linuxserver.test.com xinetd[2367]: EXIT: cpps status=0 pid=21344 duration=10665(sec)
+<38>Aug 15 13:24:00 gnu.linuxserver.test.com sshd[10241]: Received disconnect from 10.127.97.56: 2: Client loop terminated
+<83>Aug 15 13:24:00 gnu.linuxserver.test.com sshd[10161]: pam_tally2(sshd:setcred): unknown option: per_user
+<86>Aug 15 13:24:00 gnu.linuxserver.test.com sshd[10161]: pam_unix(sshd:session): session closed for user aus2077
+<78>Aug 15 13:24:01 gnu.linuxserver.test.com CROND[7571]: (root) CMD (/usr/local/bin/watch > /dev/null 2>&1 /dev/null)
+<38>Aug 15 13:24:01 gnu.linuxserver.test.com sshd[7569]: Excess permission or bad ownership on file /var/log/btmp
+<38>Aug 15 13:24:01 gnu.linuxserver.test.com sshd[7569]: Invalid user counter from 10.127.97.56
+<38>Aug 15 13:24:01 gnu.linuxserver.test.com sshd[7576]: input_userauth_request: invalid user counter
+<83>Aug 15 13:24:01 gnu.linuxserver.test.com sshd[7569]: PAM adding faulty module: /lib64/security/pam_ldap.so
+<83>Aug 15 13:24:01 gnu.linuxserver.test.com sshd[7569]: PAM unable to dlopen(/lib64/security/pam_ldap.so): /lib64/security/pam_ldap.so: cannot open shared object file: No such file or directory
+<38>Aug 15 13:24:01 gnu.linuxserver.test.com sshd[7569]: Failed none for invalid user counter from 10.127.97.56 port 2626 ssh2
+<38>Aug 15 13:24:01 gnu.linuxserver.test.com sshd[7569]: Excess permission or bad ownership on file /var/log/btmp
+<38>Aug 15 13:24:01 gnu.linuxserver.test.com sshd[7569]: Failed password for invalid user counter from 10.127.97.56 port 2626 ssh2
+<38>Aug 15 13:24:02 gnu.linuxserver.test.com sshd[7569]: Failed password for invalid user counter from 10.127.97.56 port 2626 ssh2
+<38>Aug 15 13:24:02 gnu.linuxserver.test.com sshd[7569]: Excess permission or bad ownership on file /var/log/btmp
+<34>Aug 15 13:24:04 gnu.linuxserver.test.com sshd[7576]: fatal: Read from socket failed: Connection reset by peer
+<83>Aug 15 13:24:15 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<83>Aug 15 13:24:15 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<85>Aug 15 13:24:15 gnu.linuxserver.test.com chk_pwd: pam_unix(chk_pwd:auth): authentication failure; logname= uid=4288 euid=0 tty= ruser= rhost=  user=aus0241
+<83>Aug 15 13:24:17 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<83>Aug 15 13:24:17 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:24:50 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:24:50 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<85>Aug 15 13:24:50 gnu.linuxserver.test.com chk_pwd: pam_unix(chk_pwd:auth): authentication failure; logname= uid=4288 euid=0 tty= ruser= rhost=  user=aus0241
+<83>Aug 15 13:24:52 gnu.linuxserver.test.com chk_pwd: PAM adding faulty module: /lib32/security/pam_cracklib.so
+<83>Aug 15 13:24:52 gnu.linuxserver.test.com chk_pwd: PAM unable to dlopen(/lib32/security/pam_cracklib.so): /lib32/security/pam_cracklib.so: cannot open shared object file: No such file or directory
+<78>Aug 15 13:25:01 gnu.linuxserver.test.com CROND[7706]: (root) CMD (/usr/local/bin/watch > /dev/null 2>&1 /dev/null)
+<30>Aug 15 13:25:27 gnu.linuxserver.test.com xinetd[2367]: START: cpps pid=7795 from=::ffff:127.0.0.1
+<30>Aug 15 13:25:27 gnu.linuxserver.test.com xinetd[2367]: EXIT: cpps signal=13 pid=7795 duration=0(sec)
+<38>Aug 15 13:25:27 gnu.linuxserver.test.com sshd[7797]: Connection closed by 127.0.0.1
+<86>Aug 15 13:25:58 gnu.linuxserver.test.com sshd[19375]: pam_unix(sshd:session): session closed for user aus0532
+<83>Aug 15 13:25:58 gnu.linuxserver.test.com sshd[19375]: pam_tally2(sshd:setcred): unknown option: per_user
+<78>Aug 15 13:26:01 gnu.linuxserver.test.com CROND[7902]: (root) CMD (/usr/local/bin/watch > /dev/null 2>&1 /dev/null)

@@ -1,0 +1,47 @@
+<166>%ASA-6-302014: Teardown TCP connection 103248497 for outside:69.147.64.129/32520 to DMZ:imss/25 duration 0:00:01 bytes 3201 Flow closed by inspection
+<166>%ASA-6-302013: Built inbound TCP connection 103248504 for outside:125.224.60.245/2381 (125.224.60.245/2381) to DMZ:www_vip/80 (www_vip/80)
+<166>%ASA-6-302020: Built inbound ICMP connection for faddr 203.64.173.174/0 gaddr whatsup/0 laddr whatsup/0
+<164>%ASA-4-733100: [ Scanning] drop rate-1 exceeded. Current burst rate is 10 per second, max configured rate is 10; Current average rate is 6 per second, max configured rate is 5; Cumulative total count is 4086
+<166>%ASA-6-302016: Teardown UDP connection 103246195 for outside:61.220.4.52/32771 to DMZ:dns_2/53 duration 0:02:01 bytes 177
+<166>%ASA-6-302015: Built outbound UDP connection 103248450 for outside:60.29.240.71/53 (60.29.240.71/53) to DMZ:dns_49/32768 (dns_49/32768)
+<164>%ASA-4-106023: Deny tcp src outside:85.18.95.80/57520 dst DMZ:sweb/25 by access-group "outside_access_in" [0x0, 0x0]
+<164>%ASA-4-313004: Denied ICMP type=0, from laddr 192.168.199.53 on interface outside to whatsup: no matching session
+<166>%ASA-6-302021: Teardown ICMP connection for faddr 203.64.173.174/0 gaddr whatsup/0 laddr whatsup/0
+<166>%ASA-6-106015: Deny TCP (no connection) from 202.99.220.44/2711 to sweb/80 flags RST  on interface outside
+<166>%ASA-6-302013: Built inbound TCP connection 103248354 for outside:218.92.19.98/2614 (218.92.19.98/2614) to DMZ:sweb/80 (sweb/80)
+<166>%ASA-6-302014: Teardown TCP connection 103247886 for outside:61.64.216.63/1652 to DMZ:JUNIPER-STRM/443 duration 0:00:28 bytes 45344 TCP FINs
+<166>%ASA-6-302016: Teardown UDP connection 103246106 for outside:168.95.192.143/33409 to DMZ:dns_1/53 duration 0:02:01 bytes 135
+<166>%ASA-6-302020: Built outbound ICMP connection for faddr 192.168.199.34/0 gaddr whatsup/768 laddr whatsup/768
+<166>%ASA-6-302015: Built inbound UDP connection 103248276 for outside:61.220.4.36/32771 (61.220.4.36/32771) to DMZ:dns_1/53 (dns_1/53)
+<164>%ASA-4-106023: Deny tcp src outside:203.208.193.162/4817 dst DMZ:eteach_2/135 by access-group "outside_access_in" [0x0, 0x0]
+<166>%ASA-6-106015: Deny TCP (no connection) from 218.92.19.98/2281 to sweb/80 flags RST  on interface outside
+<166>%ASA-6-302021: Teardown ICMP connection for faddr 203.64.173.250/0 gaddr whatsup/768 laddr whatsup/768
+<166>%ASA-6-302013: Built outbound TCP connection 103248079 for outside:122.173.0.137/25 (122.173.0.137/25) to DMZ:spamSQR/57620 (spamSQR/57620)
+<166>%ASA-6-302020: Built outbound ICMP connection for faddr 203.74.245.254/0 gaddr whatsup/0 laddr whatsup/0
+<166>%ASA-6-302014: Teardown TCP connection 103247845 for outside:189.92.158.248/64346 to DMZ:imss/25 duration 0:00:20 bytes 2685 TCP FINs
+<166>%ASA-6-302016: Teardown UDP connection 103246003 for outside:203.64.183.228/59933 to DMZ:dns_48/53 duration 0:02:01 bytes 273
+<166>%ASA-6-302015: Built inbound UDP connection 103248032 for outside:13.8.138.10/60156 (13.8.138.10/60156) to DMZ:dns_2/53 (dns_2/53)
+<164>%ASA-4-106023: Deny tcp src outside:85.18.95.81/38469 dst DMZ:www_vip/25 by access-group "outside_access_in" [0x0, 0x0]
+<166>%ASA-6-106015: Deny TCP (no connection) from 85.108.181.181/4409 to imss/25 flags RST  on interface outside
+<166>%ASA-6-302013: Built inbound TCP connection 103247944 for outside:219.81.230.156/50239 (219.81.230.156/50239) to DMZ:www_vip/80 (www_vip/80)
+<166>%ASA-6-302014: Teardown TCP connection 103247945 for outside:61.63.77.242/54993 to DMZ:imss/25 duration 0:00:00 bytes 55919 TCP FINs
+<166>%ASA-6-302020: Built inbound ICMP connection for faddr 203.64.173.174/0 gaddr whatsup/0 laddr whatsup/0
+<166>%ASA-6-302021: Teardown ICMP connection for faddr 203.64.173.174/0 gaddr whatsup/0 laddr whatsup/0
+<166>%ASA-6-302016: Teardown UDP connection 103245839 for outside:168.95.192.66/33051 to DMZ:dns_1/53 duration 0:02:01 bytes 132
+<166>%ASA-6-302015: Built inbound UDP connection 103247932 for outside:203.64.177.225/56065 (203.64.177.225/56065) to DMZ:dns_48/53 (dns_48/53)
+<164>%ASA-4-106023: Deny tcp src outside:220.181.32.22/60975 dst DMZ:account_server_1/80 by access-group "outside_access_in" [0x0, 0x0]
+<166>%ASA-6-302013: Built inbound TCP connection 103247842 for outside:24.207.119.49/3538 (24.207.119.49/3538) to DMZ:imss/25 (imss/25)
+<164>%ASA-4-108004: ESMTP Classification: Dropped connection for ESMTP Request from outside:69.147.64.120/21606 to DMZ:spamSQR/25; matched Class 4: header line length gt 998 
+<166>%ASA-6-302014: Teardown TCP connection 103247321 for outside:85.250.105.42/1156 to DMZ:spamSQR/25 duration 0:00:15 bytes 5087 TCP Reset-O
+<166>%ASA-6-302016: Teardown UDP connection 103245656 for outside:203.64.175.111/50592 to DMZ:dns_48/53 duration 0:02:01 bytes 291
+<166>%ASA-6-302020: Built outbound ICMP connection for faddr 203.69.194.21/0 gaddr whatsup/768 laddr whatsup/768
+<166>%ASA-6-302021: Teardown ICMP connection for faddr 203.69.194.21/0 gaddr whatsup/768 laddr whatsup/768
+<166>%ASA-6-106015: Deny TCP (no connection) from 69.147.64.120/21606 to spamSQR/25 flags ACK  on interface outside
+<164>%ASA-4-108004: ESMTP Classification: Dropped connection for ESMTP Request from outside:69.147.64.123/26539 to DMZ:imss/25; matched Class 4: header line length gt 998 
+<166>%ASA-6-302015: Built inbound UDP connection 103247797 for outside:13.8.138.11/12637 (13.8.138.11/12637) to DMZ:dns_2/53 (dns_2/53)
+<164>%ASA-4-106023: Deny tcp src outside:220.181.32.22/60975 dst DMZ:account_server_1/80 by access-group "outside_access_in" [0x0, 0x0]
+<166>%ASA-6-302014: Teardown TCP connection 103247389 for outside:69.147.64.120/21606 to DMZ:spamSQR/25 duration 0:00:02 bytes 1859 Flow closed by inspection
+<166>%ASA-6-302013: Built outbound TCP connection 103247448 for outside:85.158.139.163/25 (85.158.139.163/25) to DMZ:spamSQR/56508 (spamSQR/56508)
+<166>%ASA-6-106015: Deny TCP (no connection) from 69.147.64.123/26539 to imss/25 flags ACK  on interface outside
+<166>%ASA-6-302016: Teardown UDP connection 103245178 for outside:221.5.88.66/17973 to DMZ:dns_1/53 duration 0:02:01 bytes 124
+<166>%ASA-6-302015: Built inbound UDP connection 103247364 for outside:13.13.138.33/42333 (13.13.138.33/42333) to DMZ:dns_2/53 (dns_2/53)

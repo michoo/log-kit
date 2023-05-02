@@ -1,0 +1,13 @@
+<81>Jul 13 23:00:52 gnu.linuxserver.test.com sshd[28421]: PAM service(sshd) ignoring max retries; 6 > 3
+<81>Jul 13 23:00:50 gnu.linuxserver.test.com sshd[28421]: pam_unix(sshd:auth): check pass; user unknown
+<82>Jul 13 23:00:42 gnu.linuxserver.test.com sshd[28421]: pam_succeed_if(sshd:auth): error retrieving information about user bogus
+<81>Jul 13 23:00:46 gnu.linuxserver.test.com sshd[28421]: pam_unix(sshd:auth): check pass; user unknown
+<82>Jul 13 23:00:46 gnu.linuxserver.test.com sshd[28421]: pam_succeed_if(sshd:auth): error retrieving information about user bogus
+<81>Jul 13 23:00:42 gnu.linuxserver.test.com sshd[28421]: pam_unix(sshd:auth): check pass; user unknown
+<82>Jul 13 23:00:50 gnu.linuxserver.test.com sshd[28421]: pam_succeed_if(sshd:auth): error retrieving information about user bogus
+<81>Jul 13 23:00:30 gnu.linuxserver.test.com sshd[28421]: pam_unix(sshd:auth): check pass; user unknown
+<82>Jul 13 23:00:27 gnu.linuxserver.test.com sshd[28421]: pam_succeed_if(sshd:auth): error retrieving information about user bogus
+<82>Jul 13 23:00:30 gnu.linuxserver.test.com sshd[28421]: pam_succeed_if(sshd:auth): error retrieving information about user bogus
+<81>Jul 13 23:00:24 gnu.linuxserver.test.com sshd[28421]: pam_unix(sshd:auth): check pass; user unknown
+<81>Jul 13 23:00:27 gnu.linuxserver.test.com sshd[28421]: pam_unix(sshd:auth): check pass; user unknown
+<82>Jul 13 23:00:24 gnu.linuxserver.test.com sshd[28421]: pam_succeed_if(sshd:auth): error retrieving information about user bogus

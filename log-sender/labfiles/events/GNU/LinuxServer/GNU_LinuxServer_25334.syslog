@@ -1,0 +1,2 @@
+<81>Jul 20 12:30:18 gnu.linuxserver.test.com sudo:  bflores : 2 incorrect password attempts ; TTY=pts/6 ; PWD=/u/bflores ; USER=root ; COMMAND=/bin/su -
+<81>Jul 19 18:34:25 gnu.linuxserver.test.com sudo:   oracle : 1 incorrect password attempt ; TTY=pts/1 ; PWD=/SAN/SHRB/archive ; USER=root ; COMMAND=/bin/su -

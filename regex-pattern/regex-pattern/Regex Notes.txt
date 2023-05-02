@@ -1,0 +1,36 @@
+MATCHES:
+* zero or more (greedy)
+? zero or one (non greedy or lazy)
++ one or more
+. any char
+[] a range of characters i.e. [aBc] either char 'a' char 'B' or char 'c'
+[-]a range of characters i.e. [a-z] ==> all lower case letter from 'a' to 'z'
+[-]a range of characters i.e. [0-9] ==> all digits from '0' to '9'
+[^abcd] the caret indicates negation here ==> any character except for 'a', 'b', 'c' or 'd'
+| or operand
+\t tab
+\d digit
+\D not a digit
+\s white space
+\S not a white space
+\w matches a word character
+\W matches a NON word character
+{m} exactly 'm' times
+{m,n} at least 'm' times and at most 'n'
+{m,} at least 'm' and as many as there are
+() for capture groups
+\ to escape a character i.e. if you want to match a '.' you use  \. since the '.' matches any char
+\\ An actual back slash
+\[ An actual left bracket
+
+COMBINATIONS:
+.* anything
+* match the previous element as MANY times as possible (zero or more times) GREEDY
+*? match the previous element as FEW times as possible LAZY
+(?i) Make the whole search case insensitive
+
+ANCHORS
+^ beginning of a line
+$ end of a line
+\w matches word characters. A word character is a character a-z, A-Z, 0-9, including _ (underscore)
+\W matches NON word characters

@@ -1,0 +1,20 @@
+<166>Feb 21 2016 06:22:22: %ASA-6-302020: Built outbound ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\ken nie) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<166>Feb 21 2016 06:22:22: %ASA-6-302021: Teardown ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\ken nie) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<166>Feb 21 2016 08:22:40: %ASA-6-302020: Built outbound ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\davide lena) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<166>Feb 21 2016 08:22:40: %ASA-6-302021: Teardown ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\davide lena) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<166>Feb 21 2016 06:22:21: %ASA-6-302021: Teardown ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\wangh) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<166>Feb 21 2016 08:21:58: %ASA-6-302021: Teardown ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\ipsingh) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<166>Feb 21 2016 08:21:58: %ASA-6-302020: Built outbound ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\ipsingh) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<166>Feb 21 2016 06:22:21: %ASA-6-302020: Built outbound ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\wangh) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<164>Feb 21 2016 08:22:33: %ASA-4-400014: IDS:2004 ICMP echo request from cisco.asa.acme.com to 62.157.140.133 on interface outside
+<166>Feb 21 2016 08:22:16: %ASA-6-302013: Built inbound TCP connection 172415047 for Outside_Internet:cisco.asa.acme.com/57208 (10.64.1.110/57208)(LOCAL\palc) to Inside_RA:10.64.6.50/20 (10.64.6.50/20)
+<166>Feb 21 2016 08:22:16: %ASA-6-303002: FTP connection from Outside_Internet:cisco.asa.acme.com/57207 to Inside_RA:10.64.6.50/21, user anonymous Retrieved file tuxedo.conf
+<166>Feb 21 2016 06:22:43: %ASA-6-302021: Teardown ICMP connection for faddr cisco.asa.acme.com/1(LOCAL\wj kim) gaddr 164.129.230.12/0 laddr 164.129.230.12/0
+<166>Feb 21 2016 08:21:58: %ASA-6-302013: Built inbound TCP connection 154254595 for Outside_Internet:cisco.asa.acme.com/54525 (10.64.1.110/54525) to identity:10.64.6.50/443 (10.64.6.50/443)
+<167>Feb 21 2016 08:21:59: %ASA-7-725012: Device chooses cipher : AES256-SHA for the SSL session with client Outside_Internet:cisco.asa.acme.com/54525
+<166>Feb 21 2016 08:22:00: %ASA-6-106015: Deny TCP (no connection) from cisco.asa.acme.com/23104 to 10.64.6.50/443 flags ACK on interface Outside_Internet
+<166>Feb 21 2016 08:22:21: %ASA-6-302014: Teardown TCP connection 146727320 for Outside_Internet:cisco.asa.acme.com/63759(LOCAL\holly fulton) to Inside_RA:10.64.6.50/20 duration 0:00:00 bytes 0 Parent flow is closed
+<166>Feb 21 2016 08:22:27: %ASA-6-302013: Built inbound TCP connection 154255672 for Outside_Internet:cisco.asa.acme.com/60644 (121.137.87.11/60644) to identity:10.64.6.50/443 (10.64.6.50/443)
+<166>Feb 21 2016 08:22:15: %ASA-6-302020: Built outbound ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\luigi nicolosi) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<166>Feb 21 2016 08:22:15: %ASA-6-302021: Teardown ICMP connection for faddr cisco.asa.acme.com/0(LOCAL\luigi nicolosi) gaddr 10.64.1.110/0 laddr 10.64.6.50/0
+<163>Feb 21 2016 08:26:02: %ASA-3-313001: Denied ICMP type=3, code=3 from cisco.asa.acme.com on interface outside_internet

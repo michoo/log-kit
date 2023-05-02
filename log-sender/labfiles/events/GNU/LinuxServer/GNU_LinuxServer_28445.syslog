@@ -1,0 +1,32 @@
+<39>Jan 25 14:03:29 gnu.linuxserver.test.com saslauthd[6584]: Authentication failed for aolive3: Invalid password (-5)
+<38>Jan 25 14:03:29 gnu.linuxserver.test.com saslauthd[6584]: do_auth         : auth failure: [user=aolive3] [service=smtp] [realm=] [mech=ldap] [reason=Unknown]
+<35>Jan 25 14:14:03 gnu.linuxserver.test.com saslauthd[6584]: user ldap_search_st() failed: Can't contact LDAP server
+<38>Jan 25 14:14:03 gnu.linuxserver.test.com saslauthd[6584]: Retrying authentication
+<39>Jan 25 14:14:14 gnu.linuxserver.test.com saslauthd[6582]: Authentication failed for aolive3: Invalid password (-5)
+<38>Jan 25 14:14:14 gnu.linuxserver.test.com saslauthd[6582]: do_auth         : auth failure: [user=aolive3] [service=smtp] [realm=] [mech=ldap] [reason=Unknown]
+<35>Jan 25 14:15:57 gnu.linuxserver.test.com saslauthd[6580]: user ldap_search_st() failed: Can't contact LDAP server
+<38>Jan 25 14:15:57 gnu.linuxserver.test.com saslauthd[6580]: Retrying authentication
+<35>Jan 25 14:17:26 gnu.linuxserver.test.com saslauthd[6583]: user ldap_search_st() failed: Can't contact LDAP server
+<38>Jan 25 14:17:26 gnu.linuxserver.test.com saslauthd[6583]: Retrying authentication
+<39>Jan 25 14:19:33 gnu.linuxserver.test.com saslauthd[6581]: Authentication failed for aolive3: Invalid password (-5)
+<38>Jan 25 14:19:33 gnu.linuxserver.test.com saslauthd[6581]: do_auth         : auth failure: [user=aolive3] [service=smtp] [realm=] [mech=ldap] [reason=Unknown]
+<39>Jan 25 14:24:56 gnu.linuxserver.test.com saslauthd[6584]: Authentication failed for aolive3: Invalid password (-5)
+<38>Jan 25 14:24:56 gnu.linuxserver.test.com saslauthd[6584]: do_auth         : auth failure: [user=aolive3] [service=smtp] [realm=] [mech=ldap] [reason=Unknown]
+<35>Jan 25 14:26:54 gnu.linuxserver.test.com saslauthd[6583]: user ldap_search_st() failed: Can't contact LDAP server
+<38>Jan 25 14:26:54 gnu.linuxserver.test.com saslauthd[6583]: Retrying authentication
+<35>Jan 25 14:29:40 gnu.linuxserver.test.com saslauthd[6581]: user ldap_search_st() failed: Can't contact LDAP server
+<38>Jan 25 14:29:40 gnu.linuxserver.test.com saslauthd[6581]: Retrying authentication
+<39>Jan 25 14:30:19 gnu.linuxserver.test.com saslauthd[6580]: Authentication failed for aolive3: Invalid password (-5)
+<38>Jan 25 14:30:19 gnu.linuxserver.test.com saslauthd[6580]: do_auth         : auth failure: [user=aolive3] [service=smtp] [realm=] [mech=ldap] [reason=Unknown]
+<39>Jan 25 14:43:34 gnu.linuxserver.test.com saslauthd[6582]: Authentication failed for aolive3: Invalid password (-5)
+<38>Jan 25 14:43:34 gnu.linuxserver.test.com saslauthd[6582]: do_auth         : auth failure: [user=aolive3] [service=smtp] [realm=] [mech=ldap] [reason=Unknown]
+<35>Jan 25 14:45:22 gnu.linuxserver.test.com saslauthd[6583]: user ldap_search_st() failed: Can't contact LDAP server
+<38>Jan 25 14:45:22 gnu.linuxserver.test.com saslauthd[6583]: Retrying authentication
+<39>Jan 25 14:48:53 gnu.linuxserver.test.com saslauthd[6584]: Authentication failed for aolive3: Invalid password (-5)
+<38>Jan 25 14:48:53 gnu.linuxserver.test.com saslauthd[6584]: do_auth         : auth failure: [user=aolive3] [service=smtp] [realm=] [mech=ldap] [reason=Unknown]
+<35>Jan 25 14:54:17 gnu.linuxserver.test.com saslauthd[6580]: user ldap_search_st() failed: Can't contact LDAP server
+<38>Jan 25 14:54:17 gnu.linuxserver.test.com saslauthd[6580]: Retrying authentication
+<39>Jan 25 14:54:17 gnu.linuxserver.test.com saslauthd[6580]: Authentication failed for aolive3: Invalid password (-5)
+<38>Jan 25 14:54:17 gnu.linuxserver.test.com saslauthd[6580]: do_auth         : auth failure: [user=aolive3] [service=smtp] [realm=] [mech=ldap] [reason=Unknown]
+<39>Jan 25 14:59:40 gnu.linuxserver.test.com saslauthd[6582]: Authentication failed for aolive3: Invalid password (-5)
+<38>Jan 25 14:59:40 gnu.linuxserver.test.com saslauthd[6582]: do_auth         : auth failure: [user=aolive3] [service=smtp] [realm=] [mech=ldap] [reason=Unknown]

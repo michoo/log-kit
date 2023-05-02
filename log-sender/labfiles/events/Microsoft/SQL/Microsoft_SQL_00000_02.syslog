@@ -1,0 +1,2 @@
+<13>May 30 15:03:46 microsoft.sql.test.com AgentDevice=MSSQL	AgentLogFile=ERRORLOG	Date=2007-05-17	Time=13:58:39.28	Source=spid4	Message=Server name is 'QA2KSERV'.
+<13>May 30 15:03:46 microsoft.sql.test.com AgentDevice=MSSQL	AgentLogFile=ERRORLOG	Date=2007-05-17	Time=13:58:39.28	Source=logon	Message=Login succeeded for user 'QA2KSERV\\Administrator'. Connection: Trusted.

@@ -1,0 +1,164 @@
+<6>kernel: sd 0:0:0:0: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sda, sector 0
+<6>kernel: sd 0:0:1:20: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdq, sector 0
+<6>kernel: sd 0:0:1:22: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sds, sector 0
+<6>kernel: sd 0:0:0:14: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdd, sector 0
+<6>kernel: sd 0:0:0:16: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdf, sector 0
+<6>kernel: sd 0:0:0:21: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdh, sector 0
+<6>kernel: sd 0:0:0:25: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdj, sector 0
+<6>kernel: sd 0:0:1:2: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdl, sector 0
+<6>kernel: sd 0:0:1:13: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdm, sector 0
+<6>kernel: sd 0:0:1:15: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdo, sector 0
+<6>kernel: sd 0:0:0:0: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sda, sector 0
+<4>kernel: printk: 40 messages suppressed.
+<3>kernel: Buffer I/O error on device sda, logical block 0
+<3>kernel: Buffer I/O error on device sda, logical block 1
+<3>kernel: Buffer I/O error on device sda, logical block 2
+<3>kernel: Buffer I/O error on device sda, logical block 3
+<6>kernel: sd 0:0:0:0: Device not ready: <6>: Current: sense key: Not Ready
+<4>kernel: end_request: I/O error, dev sda, sector 0
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<3>kernel: Buffer I/O error on device sda, logical block 0
+<6>kernel: sd 0:0:0:14: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdd, sector 0
+<3>kernel: Buffer I/O error on device sdd, logical block 0
+<3>kernel: Buffer I/O error on device sdd, logical block 1
+<3>kernel: Buffer I/O error on device sdd, logical block 2
+<3>kernel: Buffer I/O error on device sdd, logical block 3
+<6>kernel: sd 0:0:0:14: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdd, sector 0
+<3>kernel: Buffer I/O error on device sdd, logical block 0
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<6>kernel: sd 0:0:0:16: Device not ready: <6>: Current: sense key: Not Ready
+<4>kernel: end_request: I/O error, dev sdf, sector 0
+<6>kernel: sd 0:0:0:16: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdf, sector 0
+<6>kernel: sd 0:0:0:21: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdh, sector 0
+<6>kernel: sd 0:0:0:21: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdh, sector 0
+<6>kernel: sd 0:0:0:25: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdj, sector 0
+<6>kernel: sd 0:0:0:25: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdj, sector 0
+<6>kernel: sd 0:0:1:2: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdl, sector 0
+<6>kernel: sd 0:0:1:2: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdl, sector 0
+<6>kernel: sd 0:0:1:13: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdm, sector 0
+<6>kernel: sd 0:0:1:13: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdm, sector 0
+<6>kernel: sd 0:0:1:15: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdo, sector 0
+<6>kernel: sd 0:0:1:15: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdo, sector 0
+<6>kernel: sd 0:0:1:20: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdq, sector 0
+<6>kernel: sd 0:0:1:20: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdq, sector 0
+<6>kernel: sd 0:0:1:22: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sds, sector 0
+<6>kernel: sd 0:0:1:22: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sds, sector 0
+<6>kernel: sd 0:0:0:0: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sda, sector 0
+<6>kernel: sd 0:0:1:20: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdq, sector 0
+<6>kernel: sd 0:0:1:22: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sds, sector 0
+<6>kernel: sd 0:0:0:14: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdd, sector 0
+<6>kernel: sd 0:0:0:16: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdf, sector 0
+<6>kernel: sd 0:0:0:21: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdh, sector 0
+<6>kernel: sd 0:0:0:25: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdj, sector 0
+<6>kernel: sd 0:0:1:2: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdl, sector 0
+<6>kernel: sd 0:0:1:13: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdm, sector 0
+<6>kernel: sd 0:0:1:15: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdo, sector 0
+<6>kernel: sd 0:0:0:0: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sda, sector 0
+<6>kernel: sd 0:0:1:20: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdq, sector 0
+<6>kernel: sd 0:0:1:22: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sds, sector 0
+<6>kernel: sd 0:0:0:14: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdd, sector 0
+<6>kernel: sd 0:0:0:16: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdf, sector 0
+<6>kernel: sd 0:0:0:21: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdh, sector 0
+<6>kernel: sd 0:0:0:25: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdj, sector 0
+<6>kernel: sd 0:0:1:2: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdl, sector 0
+<6>kernel: sd 0:0:1:13: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdm, sector 0
+<6>kernel: sd 0:0:1:15: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdo, sector 0
+<6>kernel: sd 0:0:0:0: Device not ready: <6>: Current: sense key: Not Ready
+<6>kernel:     Add. Sense: Logical unit not ready, manual intervention required
+<4>kernel: end_request: I/O error, dev sdo, sector 0

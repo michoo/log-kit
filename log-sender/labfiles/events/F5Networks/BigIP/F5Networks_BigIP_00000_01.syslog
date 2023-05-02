@@ -1,0 +1,25 @@
+Aug  6 07:35:12 f5networks.bigip.test.com mcpd[753]: 01070638:3: Pool member 138.1.186.201:7778 monitor status down.
+Aug  6 07:35:17 f5networks.bigip.test.com mcpd[753]: 01070638:3: Pool member 138.1.186.201:7778 monitor status up.
+Aug  5 07:03:42 f5networks.bigip.test.com tmm[715]: 011e0001:4: Limiting icmp unreach response from 293 to 250 packets/sec
+Aug  4 20:55:51 f5networks.bigip.test.com mcpd[753]: 01070417:5: AUDIT - user bmukesh_in - transaction #3858381-1 - object 783 - modify { pool_member { pool_member_pool_name "content_prod_http_pool" pool_member_addr 138.1.186.62 pool_member_port 7778 pool_member_monitor_state 2 pool_member_new_session_enable 0 } } 
+Aug  4 20:55:51 f5networks.bigip.test.com mcpd[753]: 01070639:3: Pool member 138.1.186.62:7778 session status disabled.
+Aug  4 20:57:11 f5networks.bigip.test.com bigpipe: Begin config sync all operation
+Aug  4 20:57:49 f5networks.bigip.test.com bigpipe: Completed config sync all operation
+Aug  4 20:57:49 f5networks.bigip.test.com mcpd[753]: 01070417:5: AUDIT - user root - transaction #3860009-1 - object 162 - create_if { db_variable { db_variable_name "configsync.csdone" db_variable_value "1" } } 
+Aug  4 20:57:49 f5networks.bigip.test.com mcpd[753]: 01070533:3: evWrite finished with no byte sent to connection 0x10fb4d78 (user root) - connection deleted.
+Aug  4 01:33:22 f5networks.bigip.test.com mcpd[753]: 01070639:3: Pool member 138.1.186.68:7778 session status enabled.
+Aug  6 03:23:42 f5networks.bigip.test.com kernel: denial vip in maintenance mode: 65.214.44.150:51252 -> 141.146.8.149:80
+Aug  6 04:04:13 f5networks.bigip.test.com kernel: http: parsed node 83.148.11.179:0 is not in vip 141.146.8.66:80 (client 59.92.130.106:3365)
+Aug  6 04:15:04 f5networks.bigip.test.com kernel: idle_http_handle_packets_from_server: new data on idle connection: server: 141.146.32.7:80
+Aug  5 04:33:51 f5networks.bigip.test.com kernel: data from client 70.86.78.226:52799 lost (VIP: 141.146.8.165:80)
+Aug  5 10:29:42 f5networks.bigip.test.com [518]: AUDIT -- Modify VIPBOX 141.146.8.33:80  User: ERPW
+Aug  5 10:29:42 f5networks.bigip.test.com kernel: VIP 141.146.8.33:80 **redefined**
+Aug  5 10:43:52 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Modify VIPBOX 141.146.8.38:80 (Parent: VIPHEAD 141.146.8.38)  User: njyrala_fi
+Aug  4 20:32:01 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Modify MONITOR_INSTANCE 141.146.13.122:7780  User: candani_us
+Aug  4 20:32:01 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Action NODEBOX 141.146.13.122:7780  User: candani_us
+Aug  4 02:18:27 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Delete MEMBER 141.146.12.133:2920 (Parent: POOL gsi_store_http)  User: iharimur_sg
+Aug  4 02:18:27 f5networks.bigip.test.com kernel: Pool (gsi_store_http) member 141.146.12.133:2920 **deleted**
+Aug  4 02:20:00 f5networks.bigip.test.com kernel: Pool gsi_store_http **redefined**
+Aug  4 02:22:40 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Create MEMBER 141.146.12.139:2920 (Parent: POOL gsi_store_http)  User: iharimur_sg
+Aug  4 02:23:57 f5networks.bigip.test.com kernel: Pool (gsi_store_http) member 141.146.12.133:2920 **added**
+Aug  2 20:04:01 f5networks.bigip.test.com bigconf.cgi: AUDIT -- Modify POOL gsi_store_http  User: jmakino_us

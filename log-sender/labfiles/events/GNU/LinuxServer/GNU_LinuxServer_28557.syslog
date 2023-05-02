@@ -1,0 +1,65 @@
+<86>sshd[15366]: pam_unix(sshd:session): session closed for user t31ztgt
+<86>sshd[15366]: pam_unix(sshd:session): session opened for user t31ztgt by (uid=0)
+<86>sshd[15366]: Accepted password for t31ztgt from 10.224.62.23 port 7486 ssh2
+<86>sshd[15283]: pam_unix(sshd:session): session closed for user t31ztgt
+<86>sshd[21006]: Connection closed by UNKNOWN
+<86>sshd[25752]: Connection closed by ::ffff:127.0.0.1
+<86>sshd[1986]: Connection closed by ::ffff:127.0.0.1
+<86>sshd[9949]: Connection closed by 10.224.62.23
+<86>sshd[15463]: Connection closed by ::ffff:127.0.0.1
+<86>sshd[11899]: Connection closed by ::ffff:127.0.0.1
+<86>sshd[15340]: Connection closed by UNKNOWN
+<86>sshd[18360]: Connection closed by ::ffff:127.0.0.1
+<86>sshd[10287]: Connection closed by UNKNOWN
+<82>sshd[23245]: fatal: Read from socket failed: Connection reset by peer
+<86>sshd[5150]: Connection closed by UNKNOWN
+<86>sshd[21024]: Connection closed by UNKNOWN
+<86>sshd[10281]: Connection closed by UNKNOWN
+<86>sshd[12278]: Connection closed by UNKNOWN
+<86>sshd[21590]: Connection closed by 10.224.62.23
+<38>Feb  2 09:44:22 sshd[11928]: Accepted publickey for weblogic from 10.5.20.2 port 52696 ssh2
+<38>Feb  2 09:44:22 sshd[11929]: Accepted publickey for weblogic from 10.5.20.2 port 52695 ssh2
+<82>sshd[23653]: fatal: Read from socket failed: Connection reset by peer
+<86>sshd[10326]: Connection closed by 10.224.62.23
+<86>sshd[516]: Connection closed by UNKNOWN
+<39>Feb  2 09:44:14 sshd[11680]: pam_setcred: error Authentication failed
+<39>Feb  2 09:44:14 sshd[11679]: pam_setcred: error Authentication failed
+<86>sshd[11434]: Connection closed by UNKNOWN
+<86>sshd[15283]: pam_unix(sshd:session): session opened for user t31ztgt by (uid=0)
+<86>sshd[15283]: Accepted publickey for t31ztgt from 10.224.62.23 port 52429 ssh2
+<86>sshd[16539]: Connection closed by 10.224.62.23
+<86>sshd[15279]: pam_unix(sshd:session): session closed for user t31ztgt
+<86>sshd[15279]: pam_unix(sshd:session): session opened for user t31ztgt by (uid=0)
+<86>sshd[15279]: Accepted publickey for t31ztgt from 10.224.62.23 port 52425 ssh2
+<86>sshd[15275]: pam_unix(sshd:session): session closed for user t31ztgt
+<86>sshd[15275]: pam_unix(sshd:session): session opened for user t31ztgt by (uid=0)
+<86>sshd[15275]: Accepted publickey for t31ztgt from 10.224.62.23 port 52424 ssh2
+<86>sshd[15269]: pam_unix(sshd:session): session closed for user t31ztgt
+<86>sshd[15269]: pam_unix(sshd:session): session opened for user t31ztgt by (uid=0)
+<86>sshd[15269]: Accepted password for t31ztgt from 10.224.62.23 port 52422 ssh2
+<86>sshd[12290]: pam_unix(sshd:session): session closed for user t327pcr
+<83>sshd[12290]: nss_ldap: could not search LDAP server - Server is unavailable
+<86>sshd[15243]: pam_unix(sshd:session): session closed for user t31ztgt
+<86>sshd[15243]: pam_unix(sshd:session): session opened for user t31ztgt by (uid=0)
+<86>sshd[15243]: Accepted password for t31ztgt from 10.224.62.23 port 52415 ssh2
+<86>sshd[10411]: Connection closed by 10.224.62.23
+<86>sshd[25045]: Connection closed by 10.224.62.23
+<86>sshd[15217]: pam_unix(sshd:session): session closed for user t31ztgt
+<86>sshd[27758]: Connection closed by 10.224.62.23
+<86>sshd[15217]: pam_unix(sshd:session): session opened for user t31ztgt by (uid=0)
+<86>sshd[15217]: Accepted password for t31ztgt from 10.224.62.23 port 52407 ssh2
+<86>sshd[12392]: pam_unix(sshd:session): session closed for user t327pcr
+<83>sshd[12392]: nss_ldap: could not search LDAP server - Server is unavailable
+<86>sshd[4315]: Connection closed by UNKNOWN
+<86>sshd[15362]: Connection closed by 10.224.62.23
+<86>sshd[18839]: Connection closed by 10.224.62.23
+<86>sshd[12354]: Connection closed by 10.224.62.23
+<86>sshd[14877]: pam_unix(sshd:session): session closed for user t31ztgt
+<86>sshd[26926]: Connection closed by 10.224.62.23
+<86>sshd[27247]: Connection closed by 10.224.62.23
+<86>sshd[3680]: Connection closed by 10.224.62.23
+<86>sshd[14941]: Connection closed by 10.224.62.23
+<86>sshd[4458]: Connection closed by 10.224.48.77
+<86>sshd[8309]: Connection closed by UNKNOWN
+<86>sshd[27345]: Connection closed by UNKNOWN
+<86>sshd[12857]: Connection closed by UNKNOWN

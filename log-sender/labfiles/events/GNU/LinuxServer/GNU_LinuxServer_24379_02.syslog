@@ -1,0 +1,3 @@
+<37>Jun  8 10:05:44 gnu.linuxserver.test.com su: FAILED SU (to root) root on /dev/pts/0
+<33>Jun  8 10:04:21 gnu.linuxserver.test.com sudo:     root : user NOT in sudoers ; TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=asdasd
+<33>Jun  8 11:16:07 gnu.linuxserver.test.com sudo:  h473854 : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=asdas

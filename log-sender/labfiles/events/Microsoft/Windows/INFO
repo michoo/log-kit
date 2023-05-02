@@ -1,0 +1,6 @@
+DEVICE_NAME=auto_windows
+SENSOR_DEVICE_TYPE=Microsoft Windows Security Event Log
+DEVICE_DESCRIPTION=Microsoft WinAuth
+DEFAULT_DEVICE_HOSTNAME=microsoft.windows.test.com
+DEVICE_TYPE_ID=12
+AUTODISCOVERABLE=true

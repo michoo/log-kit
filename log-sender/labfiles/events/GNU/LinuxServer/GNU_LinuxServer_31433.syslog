@@ -1,0 +1,121 @@
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[13199]: (charihar) CMD (/home/charihar/chk.pl) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<78>crond[12575]: (charihar) CMD (/home/charihar/chk.pl) 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[11595]: (charihar) CMD (/home/charihar/chk.pl) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[10923]: (charihar) CMD (/home/charihar/chk.pl) 
+<78>crond[10922]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[10259]: (charihar) CMD (/home/charihar/chk.pl) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[9583]: (charihar) CMD (/home/charihar/chk.pl) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[8921]: (charihar) CMD (/home/charihar/chk.pl) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[7951]: (charihar) CMD (/home/charihar/chk.pl) 
+<27>nscd: nss_ldap: could not search LDAP server - Server is unavailable 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<78>crond[7162]: (root) CMD (/usr/local/bb/bbc/ext/dmo.sh     # Big Brother Disk Option #OPSWBB) 
+<78>crond[7161]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests) 
+<78>crond[7160]: (charihar) CMD (/home/charihar/chk.pl) 
+<78>crond[7159]: (root) CMD (/usr/lib/sa/sa1 1 1) 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[6430]: (charihar) CMD (/home/charihar/chk.pl) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[5703]: (charihar) CMD (/home/charihar/chk.pl) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[5032]: (charihar) CMD (/home/charihar/chk.pl) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[4007]: (charihar) CMD (/home/charihar/chk.pl) 
+<85>sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/local/nagios/site-scripts/check_dmo.sh 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[3245]: (charihar) CMD (/home/charihar/chk.pl) 
+<78>crond[3244]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak5>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak5 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak3>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak3 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak2>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak2 (password aged) 
+<22>dovecot: pop3-login: Aborted login: user=<resprak1>, method=PLAIN, rip=::ffff:127.0.0.1, lip=::ffff:127.0.0.1, secured 
+<87>dovecot-auth: pam_unix(dovecot:account): expired password for user resprak1 (password aged) 
+<78>crond[2456]: (charihar) CMD (/home/charihar/chk.pl) 

@@ -1,0 +1,10 @@
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: ED80FA8BD71: client=mail.visionresearch.com[149.56.234.165]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: E4F46A8BD4B: from=<mstevens@visionresearch.com>, size=69751, nrcpt=5 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: E4F46A8BD4B: from=<mstevens@visionresearch.com>, size=69751, nrcpt=5 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: ED80FA8BD71: client=mail.visionresearch.com[149.56.234.165]
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: E4F46A8BD4B: warning: header Subject: Funny Monkey Video from mail.visionresearch.com[149.56.234.165]; from=<mstevens@visionresearch.com> to=<lance.springwell@acme.com> proto=ESMTP helo=<lnhub001.cs-apps.visionresearch.com>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="Office Monkeys LOL Video.zip" from mail.visionresearch.com[149.56.234.165]; from=<mstevens@visionresearch.com> to=<lance.springwell@acme.com> proto=ESMTP helo=<mail.acme.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: E4F46A8BD4B: message-id=<OFADB25DA4.C0CC63F3-ON002578D8.004AD694-C12578D8.004AEDB7@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: E4F46A8BD4B: warning: header Subject: Funny Monkey Video from mail.visionresearch.com[149.56.234.165]; from=<mstevens@visionresearch.com> to=<lance.springwell@acme.com> proto=ESMTP helo=<lnhub001.cs-apps.visionresearch.com>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="Office Monkeys LOL Video.zip" from mail.visionresearch.com[149.56.234.165]; from=<mstevens@visionresearch.com> to=<lance.springwell@acme.com> proto=ESMTP helo=<mail.acme.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="5442.zip" from mail.visionresearch.com[149.56.234.165]; from=<mstevens@visionresearch.com> to=<lance.springwell@acme.com> proto=ESMTP helo=<mail.acme.com>: Document Attachment

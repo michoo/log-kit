@@ -1,0 +1,4 @@
+<86>su: pam_unix(su-l:session): session opened for user root by apomeroy(uid=0)
+<85>sudo: apomeroy : TTY=pts/3 ; PWD=/home/apomeroy ; USER=root ; COMMAND=/bin/su -
+<81>sudo: apomeroy : command not allowed ; TTY=pts/3 ; PWD=/home/apomeroy ; USER=root ; COMMAND=/bin/su - root
+<81>sudo: apomeroy : command not allowed ; TTY=pts/3 ; PWD=/home/apomeroy ; USER=root ; COMMAND=/bin/bash

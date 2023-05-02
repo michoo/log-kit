@@ -1,0 +1,315 @@
+<182>Jul 22 15:43:00 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:00 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:00 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:00 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:01 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:01 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:01 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:01 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:02 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:02 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:02 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:02 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:02 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:02 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:03 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:03 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:03 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:03 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:03 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:03 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:03 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:04 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:04 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:04 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:04 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:05 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:05 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:05 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:05 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:06 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:06 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:06 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:06 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:06 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:06 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:07 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:07 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:07 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:07 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:07 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:07 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:07 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:08 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:08 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:08 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:08 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:09 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:09 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:09 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:09 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:10 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:10 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:10 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:10 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:10 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:10 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:11 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:11 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:11 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:11 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:11 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:11 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:11 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:12 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:12 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:12 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:12 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:12 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:13 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:13 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:13 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:14 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:14 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:14 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:14 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:14 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:14 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:15 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:15 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:15 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:15 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:15 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:15 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:15 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:16 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:16 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:16 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:16 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:17 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:17 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:17 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:17 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:18 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:18 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:18 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:18 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:18 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:18 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:19 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:19 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:19 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:19 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:19 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:19 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:19 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:20 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:20 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:20 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:20 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:21 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:21 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:21 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:21 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:22 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:22 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:22 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:22 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:22 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:22 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:23 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:23 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:23 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:23 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:23 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:23 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:23 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:24 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:24 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:24 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:24 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:25 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:25 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:25 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:25 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:26 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:26 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:26 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:26 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:26 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:26 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:27 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:27 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:27 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:27 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:27 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:27 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:27 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:28 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:28 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:28 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:28 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:29 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:29 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:29 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:29 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:30 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:30 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:30 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:30 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:30 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:30 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:31 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:31 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:31 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:31 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:31 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:31 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:31 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:32 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:32 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:32 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:32 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:32 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:33 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:33 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:33 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:34 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:34 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:34 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:34 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:34 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:34 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:35 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:35 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:35 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:35 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:35 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:35 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:35 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:36 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:36 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:36 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:36 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:36 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:37 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:37 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:37 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:37 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:38 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:38 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:38 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:38 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:38 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:39 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:39 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:39 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:39 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:39 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:39 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:39 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:40 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:40 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:40 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:40 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:40 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:41 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:41 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:41 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:41 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:42 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:42 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:42 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:42 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:42 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:43 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:43 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:43 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:43 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:43 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:43 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:43 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:44 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:44 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:44 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:44 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:44 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:45 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:45 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:45 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:45 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:46 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:46 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:46 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:46 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:46 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:47 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:47 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:47 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:47 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:47 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:47 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:47 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:48 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:48 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:48 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:48 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:48 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:49 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:49 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:49 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:50 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:50 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:50 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:50 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:50 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:50 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:51 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:51 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:51 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:51 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:51 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:51 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:51 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:52 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:52 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:52 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:52 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:53 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:53 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:53 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:53 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:54 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:54 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:54 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:54 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:54 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:54 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:55 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:55 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:55 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:55 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:55 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:55 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:55 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:56 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:56 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:56 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:56 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:56 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:57 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:57 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:57 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:58 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:58 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:58 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:58 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:58 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:58 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user
+<182>Jul 22 15:43:59 gnu.linuxserver.test.com <86>sshd[2566]: Received disconnect from ::ffff:129.83.25.152: 11: Done with connection
+<182>Jul 22 15:43:59 gnu.linuxserver.test.com <38>sshd[10502]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:59 gnu.linuxserver.test.com <36>sshd[10502]: refused connect from sbdc2.sys-admin.adm (::ffff:129.83.25.152)
+<182>Jul 22 15:43:59 gnu.linuxserver.test.com <35>sshd[10503]: warning: /etc/hosts.allow, line 10: host name/name mismatch: sbdc2.sys-admin.adm != ddmsrv2.mitre.org
+<182>Jul 22 15:43:59 gnu.linuxserver.test.com <38>sshd[10503]: rexec line 121: Deprecated option RhostsAuthentication
+<182>Jul 22 15:43:59 gnu.linuxserver.test.com <36>sshd[10503]: refused connect from ::ffff:129.83.25.152 (::ffff:129.83.25.152)
+<182>Jul 22 15:43:59 gnu.linuxserver.test.com <86>sshd[2439]: Received disconnect from ::ffff:129.83.50.65: 11: disconnected by user

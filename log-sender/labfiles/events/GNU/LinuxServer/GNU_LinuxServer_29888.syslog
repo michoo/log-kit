@@ -1,0 +1,4 @@
+<38>Apr 26 00:02:51 gnu.linuxserver.test.com/10.57.132.41 su[30957]: (pam_unix) session closed for user erinker
+<38>Apr 26 00:02:53 gnu.linuxserver.test.com/10.57.132.41 su[30928]: (pam_unix) session closed for user root
+<37>Apr 26 22:11:43 gnu.linuxserver.test.com/10.200.1.238 sudo(pam_unix)[7012]: authentication failure; logname=jschoenduve uid=0 euid=0 tty=pts/60 ruser= rhost=  user=jschoenduve
+<37>Apr 26 22:11:46 gnu.linuxserver.test.com/10.200.1.238 sudo(pam_unix)[7033]: authentication failure; logname=jschoenduve uid=0 euid=0 tty=pts/60 ruser= rhost=  user=jschoenduve

@@ -1,0 +1,260 @@
+<23>Jul 25 13:40:47 acmesmtp pmx-milter[21293]: PureMessage::Milter::Policy: getcmd: read failed (EOF)
+<22>Jul 25 13:40:47 acmesmtp postfix/smtpd[11182]: disconnect from ashzp0010.corp.practical.org[212.19.223.18]
+<23>Jul 25 13:40:47 acmesmtp pmx-milter[21293]: PureMessage::Milter::Policy: getcmd: read failed (EOF)
+<22>Jul 25 13:40:47 acmesmtp postfix/smtpd[11067]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:47 acmesmtp postfix/qmgr[15719]: ED80FA8BD71: from=<elke.weiss@practical.org>, size=69858, nrcpt=1 (queue active)
+<23>Jul 25 13:40:47 acmesmtp pmx-milter[10220]: PureMessage::Milter::Policy: getcmd: read failed (EOF)
+<23>Jul 25 13:40:47 acmesmtp pmx-milter[10220]: PureMessage::Milter::Policy: getcmd: read failed (EOF)
+<22>Jul 25 13:40:47 acmesmtp postfix/smtpd[11182]: disconnect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:47 acmesmtp postfix/qmgr[15719]: ED80FA8BD71: from=<elke.weiss@practical.org>, size=69858, nrcpt=1 (queue active)
+<22>Jul 25 13:40:47 acmesmtp postfix/smtpd[11067]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: ED80FA8BD71: warning: header Subject: RE: Fw: 4504362234   -- PO 50830310 from ashzp0010.corp.practical.org[212.19.223.18]; from=<elke.weiss@practical.org> to=<elke.weiss@practical.org> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="Training Mikrotik.pdf" from mail.example.com[212.19.223.18]; from=<elke.weiss@practical.org> to=<elke.weiss@practical.org> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: ED80FA8BD71: message-id=<OFADB25DA4.C0CC63F3-ON002578D8.004AD694-C12578D8.004AEDB7@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: ED80FA8BD71: message-id=<OFADB25DA4.C0CC63F3-ON002578D8.004AD694-C12578D8.004AEDB7@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: ED80FA8BD71: warning: header Subject: RE: Fw: 4504362234   -- PO 50830310 from ashzp0010.corp.practical.org[212.19.223.18]; from=<elke.weiss@practical.org> to=<elke.weiss@practical.org> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="Training Mikrotik.pdf" from mail.example.com[212.19.223.18]; from=<elke.weiss@practical.org> to=<elke.weiss@practical.org> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: ED80FA8BD71: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: E4F46A8BD4B: from=<mstevens@rmi.com.com>, size=69751, nrcpt=5 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: E4F46A8BD4B: from=<mstevens@rmi.com.com>, size=69751, nrcpt=5 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: ED80FA8BD71: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: E4F46A8BD4B: message-id=<OFADB25DA4.C0CC63F3-ON002578D8.004AD694-C12578D8.004AEDB7@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: E4F46A8BD4B: warning: header Subject: RE: Please process this P.O ASAP from ashzp0010.corp.practical.org[212.19.223.18]; from=<mstevens@rmi.com> to=<frank.sanchez@acme.com> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="RMI Invoice.pdf" from mail.rmi.com[212.19.223.18]; from=<mstevens@rmi.com> to=<frank.sanchez@acme.com> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: E4F46A8BD4B: message-id=<OFADB25DA4.C0CC63F3-ON002578D8.004AD694-C12578D8.004AEDB7@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: E4F46A8BD4B: warning: header Subject: Please process this P.O ASAP from ashzp0010.corp.practical.org[212.19.223.18]; from=<mstevens@rmi.com> to=<frank.sanchez@acme.com> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="RMI Invoice.pdf" from mail.example.com[212.19.223.18]; from=<mstevens@rmi.com> to=<frank.sanchez@acme.com> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: E4F46A8BD4B: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: E4F46A8BD4B: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: connect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: connect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11195]: connect from smtplq-out11.aruba.it[62.149.158.31]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11195]: connect from smtplq-out11.aruba.it[62.149.158.31]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: 4C83BA8BE2B: removed
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11033]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtp[11072]: 4C83BA8BE2B: to=<betty.thomas@acme.com>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.39, delays=0.06/0/0/0.33, dsn=2.0.0, status=sent (250 OK, sent 4E2D725E_21291_3213_1 A0C7FA8BE1B)
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: 4C83BA8BE2B: removed
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11033]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtp[11072]: 4C83BA8BE2B: to=<betty.thomas@acme.com>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.39, delays=0.06/0/0/0.33, dsn=2.0.0, status=sent (250 OK, sent 4E2D725E_21291_3213_1 A0C7FA8BE1B)
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: A0C7FA8BE1B: from=<sonia.padilla@practical.org>, size=37325, nrcpt=1 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: A0C7FA8BE1B: from=<sonia.padilla@practical.org>, size=37325, nrcpt=1 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11033]: A0C7FA8BE1B: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11033]: A0C7FA8BE1B: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: A0C7FA8BE1B: warning: header Subject: =?ISO-8859-1?Q?MANIFESTACION_DE_INTER=C9S_DE_PARTICIPACION_EN_EL_PROCESO?=? =?ISO-8859-1?Q?_DE_SELECCI=D3N__0-046?= from localhost[127.0.0.1]; from=<sonia.padilla@practical.org> to=<betty.thomas@acme.com> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: A0C7FA8BE1B: warning: header Subject: =?ISO-8859-1?Q?MANIFESTACION_DE_INTER=C9S_DE_PARTICIPACION_EN_EL_PROCESO?=? =?ISO-8859-1?Q?_DE_SELECCI=D3N__0-046?= from localhost[127.0.0.1]; from=<sonia.padilla@practical.org> to=<betty.thomas@acme.com> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: A0C7FA8BE1B: message-id=<OF3E908159.9045205C-ON052578D8.00494A18-052578D8.004AEE3E@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: A0C7FA8BE1B: message-id=<OF3E908159.9045205C-ON052578D8.00494A18-052578D8.004AEE3E@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11033]: connect from localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11033]: connect from localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: disconnect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: disconnect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: 85B0CA8BC51: from=<giuseppe.rolleri@practical.org>, size=44288, nrcpt=2 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: 85B0CA8BC51: from=<giuseppe.rolleri@practical.org>, size=44288, nrcpt=2 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: 85B0CA8BC51: message-id=<OF5D231EF1.1FA9CADA-ON002578D8.004ACDDD-C12578D8.004AEE57@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: 85B0CA8BC51: message-id=<OF5D231EF1.1FA9CADA-ON002578D8.004ACDDD-C12578D8.004AEE57@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: 85B0CA8BC51: warning: header Subject: Re: SER METHIS from ashzp0010.corp.practical.org[212.19.223.18]; from=<giuseppe.rolleri@practical.org> to=<isabella.cestino@acme.com> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="SER_METHIS.xls" from mail.practical.org[212.19.223.18]; from=<giuseppe.rolleri@practical.org> to=<isabella.cestino@acme.com> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11179]: 85B0CA8BC51: warning: header Subject: Re: SER METHIS from ashzp0010.corp.practical.org[212.19.223.18]; from=<giuseppe.rolleri@practical.org> to=<isabella.cestino@practical.org> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="SER_METHIS.xls" from mail.practical.org[212.19.223.18]; from=<giuseppe.rolleri@practical.org> to=<isabella.cestino@acme.com> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: 85B0CA8BC51: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: 85B0CA8BC51: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: connect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: connect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11195]: disconnect from 173-166-91-134-newengland.hfc.comcastbusiness.net[173.166.91.134]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11195]: disconnect from 173-166-91-134-newengland.hfc.comcastbusiness.net[173.166.91.134]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: 4C83BA8BE2B: from=<sonia.padilla@sismic.org>, size=36419, nrcpt=1 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: disconnect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: disconnect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: 4C83BA8BE2B: from=<sonia.padilla@sismic.org>, size=36419, nrcpt=1 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11194]: 4C83BA8BE2B: message-id=<OF3E908159.9045205C-ON052578D8.00494A18-052578D8.004AEE3E@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11194]: 4C83BA8BE2B: message-id=<OF3E908159.9045205C-ON052578D8.00494A18-052578D8.004AEE3E@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11194]: 4C83BA8BE2B: warning: header Subject: =?ISO-8859-1?Q?MANIFESTACION_DE_INTER=C9S_DE_PARTICIPACION_EN_EL_PROCESO?=? =?ISO-8859-1?Q?_DE_SELECCI=D3N__0-046?= from ashzp0010.corp.practical.org[212.19.223.18]; from=<sonia.padilla@practical.org> to=<betty.thomas@acme.com> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11194]: 4C83BA8BE2B: warning: header Subject: =?ISO-8859-1?Q?MANIFESTACION_DE_INTER=C9S_DE_PARTICIPACION_EN_EL_PROCESO?=? =?ISO-8859-1?Q?_DE_SELECCI=D3N__0-046?= from ashzp0010.corp.practical.org[212.19.223.18]; from=<sonia.padilla@practical.org> to=<betty.thomas@acme.com> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: 4C83BA8BE2B: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: 4C83BA8BE2B: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: connect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: connect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: E6AABA8BE12: removed
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: E6AABA8BE12: removed
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11068]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11068]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: 26151A8BDA5: from=<mstevens@rmi.com.com>, size=198286, nrcpt=1 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/smtp[11073]: E6AABA8BE12: to=<kyle.west@acme.com>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.3, delays=0.11/0/0/0.19, dsn=2.0.0, status=sent (250 OK, sent 4E2D725E_21291_3212_1 26151A8BDA5)
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: 26151A8BDA5: from=<mstevens@rmi.com.com>, size=198286, nrcpt=1 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/smtp[11073]: E6AABA8BE12: to=<kyle.west@acme.com>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.3, delays=0.11/0/0/0.19, dsn=2.0.0, status=sent (250 OK, sent 4E2D725E_21291_3212_1 26151A8BDA5)
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: 26151A8BDA5: warning: header Subject: Please process this P.O. ASAP from localhost[127.0.0.1]; from=<mstevens@rmi.com.com> to=<kyle.west@acme.com> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="RMI Invoice.pdf" from mail.rmi.com[212.19.223.18]; from=<mstevens@rmi.com.com> to=<kyle.west@acme.com> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11068]: 26151A8BDA5: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: 26151A8BDA5: warning: header Subject: Please process this P.O. ASAP from localhost[127.0.0.1]; from=<mstevens@rmi.com.com> to=<kyle.west@acme.com> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="RMI Invoice.pdf" from mail.rmi.com[212.19.223.18]; from=<mstevens@rmi.com.com> to=<kyle.west@acme.com> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: 26151A8BDA5: message-id=<OF3F3190AE.367FDABE-ON002578D8.004A6D83-852578D8.004AEDA8@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/cleanup[11197]: 26151A8BDA5: message-id=<OF3F3190AE.367FDABE-ON002578D8.004A6D83-852578D8.004AEDA8@cs-notes.practical.org>
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11068]: 26151A8BDA5: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11068]: connect from localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11068]: connect from localhost[127.0.0.1]
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11195]: NOQUEUE: reject: RCPT from 173-166-91-134-newengland.hfc.comcastbusiness.net[173.166.91.134]: 550 5.1.1 <MPomeroy@practical.org>: Recipient address rejected: User unknown in virtual alias table; from=<erp1@erpevaluations.com> to=<MPomeroy@practical.org> proto=ESMTP helo=<mail.erpevaluations.com>
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11195]: NOQUEUE: reject: RCPT from 173-166-91-134-newengland.hfc.comcastbusiness.net[173.166.91.134]: 550 5.1.1 <MPomeroy@practical.org>: Recipient address rejected: User unknown in virtual alias table; from=<erp1@erpevaluations.com> to=<MPomeroy@practical.org> proto=ESMTP helo=<mail.erpevaluations.com>
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: E6AABA8BE12: from=<carol.wuest@practical.org>, size=197674, nrcpt=1 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: disconnect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: E6AABA8BE12: from=<carol.wuest@practical.org>, size=197674, nrcpt=1 (queue active)
+<22>Jul 25 13:40:46 acmesmtp postfix/smtpd[11182]: disconnect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: C8C97A8BDA5: removed
+<22>Jul 25 13:40:46 acmesmtp postfix/smtp[11209]: C8C97A8BDA5: to=<584516N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=1.2, delays=0.07/0/0.02/1.1, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:46 acmesmtp postfix/qmgr[15719]: C8C97A8BDA5: removed
+<22>Jul 25 13:40:46 acmesmtp postfix/smtp[11209]: C8C97A8BDA5: to=<584516N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=1.2, delays=0.07/0/0.02/1.1, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11193]: E6AABA8BE12: message-id=<OF3F3190AE.367FDABE-ON002578D8.004A6D83-852578D8.004AEDA8@cs-notes.practical.org>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11193]: E6AABA8BE12: warning: header Subject: 2005 Buick from ashzp0010.corp.practical.org[212.19.223.18]; from=<carol.wuest@practical.org> to=<robert.wuest@kodak.com> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="Training Mikrotik.pdf" from mail.example.com[212.19.223.18]; from=<ahmad@example.com> to=<example@gmail.com> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11193]: E6AABA8BE12: warning: header Subject: 2005 Buick from ashzp0010.corp.practical.org[212.19.223.18]; from=<carol.wuest@practical.org> to=<robert.wuest@kodak.com> proto=ESMTP helo=<lnhub001.cs-apps.practical.org>
+<22>Jul 25 13:40:46 mail postfix/cleanup[12069]: 5664C63400E: warning: header Content-Disposition: attachment; filename="Training Mikrotik.pdf" from mail.example.com[212.19.223.18]; from=<ahmad@example.com> to=<example@gmail.com> proto=ESMTP helo=<mail.example.com>: Document Attachment
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11193]: E6AABA8BE12: message-id=<OF3F3190AE.367FDABE-ON002578D8.004A6D83-852578D8.004AEDA8@cs-notes.practical.org>
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11182]: E6AABA8BE12: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11182]: E6AABA8BE12: client=ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11182]: connect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11182]: connect from ashzp0010.corp.practical.org[212.19.223.18]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11195]: connect from 173-166-91-134-newengland.hfc.comcastbusiness.net[173.166.91.134]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11195]: connect from 173-166-91-134-newengland.hfc.comcastbusiness.net[173.166.91.134]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11154]: disconnect from unknown[173.236.112.201]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11154]: disconnect from unknown[173.236.112.201]
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 7759EA8BD21: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11071]: 7759EA8BD21: to=<497203N@cs-notes.practical.org>, orig_to=<trevor.jackson@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.15, delays=0.09/0/0/0.06, dsn=2.0.0, status=sent (250 OK, sent 4E2D725D_21291_3211_1 )
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 7759EA8BD21: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11071]: 7759EA8BD21: to=<497203N@cs-notes.practical.org>, orig_to=<trevor.jackson@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.15, delays=0.09/0/0/0.06, dsn=2.0.0, status=sent (250 OK, sent 4E2D725D_21291_3211_1 )
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 7759EA8BD21: from=<info@plannednutrition.com>, size=2243, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 7759EA8BD21: from=<info@plannednutrition.com>, size=2243, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11194]: 7759EA8BD21: warning: header Subject: Everything Must Go from unknown[173.236.112.201]; from=<info@plannednutrition.com> to=<trevor.jackson@practical.org> proto=ESMTP helo=<89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11194]: 7759EA8BD21: message-id=<687ceaec78ecec7a89b95cda52c47b52@89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11194]: 7759EA8BD21: message-id=<687ceaec78ecec7a89b95cda52c47b52@89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11194]: 7759EA8BD21: warning: header Subject: Everything Must Go from unknown[173.236.112.201]; from=<info@plannednutrition.com> to=<trevor.jackson@practical.org> proto=ESMTP helo=<89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11154]: 7759EA8BD21: client=unknown[173.236.112.201]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11154]: 7759EA8BD21: client=unknown[173.236.112.201]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11206]: 370C1A8BD21: to=<411996N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.16, delays=0.05/0/0.02/0.09, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11206]: 370C1A8BD21: to=<411996N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.16, delays=0.05/0/0.02/0.09, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 370C1A8BD21: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 370C1A8BD21: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 9C2AAA8BE12: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 9C2AAA8BE12: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11072]: 9C2AAA8BE12: to=<411996N@cs-notes.practical.org>, orig_to=<delin.shen@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, conn_use=2, delay=0.69, delays=0.35/0/0/0.33, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_10220_1402_2 370C1A8BD21)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 370C1A8BD21: from=<training@info.globalcompliancepanel.com>, size=22044, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11072]: 9C2AAA8BE12: to=<411996N@cs-notes.practical.org>, orig_to=<delin.shen@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, conn_use=2, delay=0.69, delays=0.35/0/0/0.33, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_10220_1402_2 370C1A8BD21)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 370C1A8BD21: from=<training@info.globalcompliancepanel.com>, size=22044, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 1E08FA8BE0D: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 1E08FA8BE0D: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11070]: 1E08FA8BE0D: to=<19006328N@cs-notes.practical.org>, orig_to=<swaroop.ghosh@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, conn_use=2, delay=0.15, delays=0.09/0/0/0.06, dsn=2.0.0, status=sent (250 OK, sent 4E2D725D_21293_7350_2 )
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11070]: 1E08FA8BE0D: to=<19006328N@cs-notes.practical.org>, orig_to=<swaroop.ghosh@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, conn_use=2, delay=0.15, delays=0.09/0/0/0.06, dsn=2.0.0, status=sent (250 OK, sent 4E2D725D_21293_7350_2 )
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11179]: 370C1A8BD21: message-id=<Kilauea119989-74190-310755798-1-1018@flonetwork.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11179]: 370C1A8BD21: warning: header Subject: Live Webinar - Equipment, Facilities, and Preventive Maintenance System - Principles of Lean Documents and Lean Configuration from localhost[127.0.0.1]; from=<training@info.globalcompliancepanel.com> to=<411996N@cs-notes.practical.org> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11179]: 370C1A8BD21: message-id=<Kilauea119989-74190-310755798-1-1018@flonetwork.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11179]: 370C1A8BD21: warning: header Subject: Live Webinar - Equipment, Facilities, and Preventive Maintenance System - Principles of Lean Documents and Lean Configuration from localhost[127.0.0.1]; from=<training@info.globalcompliancepanel.com> to=<411996N@cs-notes.practical.org> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11067]: 370C1A8BD21: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11067]: 370C1A8BD21: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11071]: 69548A8BD71: to=<dlee@carestreammedical.com>, orig_to=<dlee@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.83, delays=0.35/0/0/0.48, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_814_11925_1 28601A8BDEF)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 1E08FA8BE0D: from=<info@plannednutrition.com>, size=2241, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11071]: 69548A8BD71: to=<dlee@carestreammedical.com>, orig_to=<dlee@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.83, delays=0.35/0/0/0.48, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_814_11925_1 28601A8BDEF)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 69548A8BD71: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 69548A8BD71: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 28601A8BDEF: from=<training@info.globalcompliancepanel.com>, size=22009, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 28601A8BDEF: from=<training@info.globalcompliancepanel.com>, size=22009, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: 1E08FA8BE0D: from=<info@plannednutrition.com>, size=2241, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11197]: 1E08FA8BE0D: message-id=<3549bcc8637bc947568637ee49866b2c@89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11197]: 1E08FA8BE0D: warning: header Subject: Everything Must Go from unknown[173.236.112.201]; from=<info@plannednutrition.com> to=<swaroop.ghosh@practical.org> proto=ESMTP helo=<89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11197]: 1E08FA8BE0D: message-id=<3549bcc8637bc947568637ee49866b2c@89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11197]: 1E08FA8BE0D: warning: header Subject: Everything Must Go from unknown[173.236.112.201]; from=<info@plannednutrition.com> to=<swaroop.ghosh@practical.org> proto=ESMTP helo=<89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11198]: 28601A8BDEF: warning: header Subject: Live Webinar - Equipment, Facilities, and Preventive Maintenance System - Principles of Lean Documents and Lean Configuration from localhost[127.0.0.1]; from=<training@info.globalcompliancepanel.com> to=<dlee@carestreammedical.com> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11198]: 28601A8BDEF: message-id=<Kilauea119989-74190-241360121-1-1018@flonetwork.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11198]: 28601A8BDEF: message-id=<Kilauea119989-74190-241360121-1-1018@flonetwork.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11208]: 28601A8BDEF: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11198]: 28601A8BDEF: warning: header Subject: Live Webinar - Equipment, Facilities, and Preventive Maintenance System - Principles of Lean Documents and Lean Configuration from localhost[127.0.0.1]; from=<training@info.globalcompliancepanel.com> to=<dlee@carestreammedical.com> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11208]: 28601A8BDEF: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11208]: connect from localhost[127.0.0.1]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11208]: connect from localhost[127.0.0.1]
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: EB833A8BDEF: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11073]: EB833A8BDEF: to=<472422N@cs-notes.practical.org>, orig_to=<norma.caro@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.16, delays=0.09/0/0/0.07, dsn=2.0.0, status=sent (250 OK, sent 4E2D725D_21293_7350_1 )
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: EB833A8BDEF: removed
+<22>Jul 25 13:40:45 acmesmtp postfix/smtp[11073]: EB833A8BDEF: to=<472422N@cs-notes.practical.org>, orig_to=<norma.caro@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.16, delays=0.09/0/0/0.07, dsn=2.0.0, status=sent (250 OK, sent 4E2D725D_21293_7350_1 )
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11154]: 1E08FA8BE0D: client=unknown[173.236.112.201]
+<22>Jul 25 13:40:45 acmesmtp postfix/smtpd[11154]: 1E08FA8BE0D: client=unknown[173.236.112.201]
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: EB833A8BDEF: from=<info@plannednutrition.com>, size=2239, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/qmgr[15719]: EB833A8BDEF: from=<info@plannednutrition.com>, size=2239, nrcpt=1 (queue active)
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11193]: EB833A8BDEF: warning: header Subject: New Cars , Used_Prices from unknown[173.236.112.201]; from=<info@plannednutrition.com> to=<norma.caro@practical.org> proto=ESMTP helo=<89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11193]: EB833A8BDEF: message-id=<576bd6b8dab59b6976a75b5a0bb157fd@89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11193]: EB833A8BDEF: message-id=<576bd6b8dab59b6976a75b5a0bb157fd@89ab033.plannednutrition.com>
+<22>Jul 25 13:40:45 acmesmtp postfix/cleanup[11193]: EB833A8BDEF: warning: header Subject: New Cars , Used_Prices from unknown[173.236.112.201]; from=<info@plannednutrition.com> to=<norma.caro@practical.org> proto=ESMTP helo=<89ab033.plannednutrition.com>
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11154]: EB833A8BDEF: client=unknown[173.236.112.201]
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11154]: EB833A8BDEF: client=unknown[173.236.112.201]
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 9C2AAA8BE12: from=<training@info.globalcompliancepanel.com>, size=21219, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 9C2AAA8BE12: from=<training@info.globalcompliancepanel.com>, size=21219, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11070]: 97355A8BD21: to=<584516N@cs-notes.practical.org>, orig_to=<william.gundy@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=1.3, delays=0.86/0/0/0.43, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_10220_1402_1 C8C97A8BDA5)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: C8C97A8BDA5: from=<moi.leong@kodak.com>, size=1989958, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11070]: 97355A8BD21: to=<584516N@cs-notes.practical.org>, orig_to=<william.gundy@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=1.3, delays=0.86/0/0/0.43, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_10220_1402_1 C8C97A8BDA5)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 97355A8BD21: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: C8C97A8BDA5: from=<moi.leong@kodak.com>, size=1989958, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 97355A8BD21: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11198]: C8C97A8BDA5: message-id=<OFFA2EA658.AE90D9DD-ON852578D8.004AE4A8-852578D8.004AE8D7@knotes.kodak.com>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11198]: C8C97A8BDA5: warning: header Subject: Update from localhost[127.0.0.1]; from=<moi.leong@kodak.com> to=<584516N@cs-notes.practical.org> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11198]: C8C97A8BDA5: message-id=<OFFA2EA658.AE90D9DD-ON852578D8.004AE4A8-852578D8.004AE8D7@knotes.kodak.com>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11198]: C8C97A8BDA5: warning: header Subject: Update from localhost[127.0.0.1]; from=<moi.leong@kodak.com> to=<584516N@cs-notes.practical.org> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11067]: C8C97A8BDA5: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11067]: connect from localhost[127.0.0.1]
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11067]: C8C97A8BDA5: client=localhost[127.0.0.1]
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11067]: connect from localhost[127.0.0.1]
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11194]: 9C2AAA8BE12: warning: header Subject: Live Webinar - Equipment, Facilities, and Preventive Maintenance System - Principles of Lean Documents and Lean Configuration from mta2.primary.na.epidm.net[146.82.220.41]; from=<training@info.globalcompliancepanel.com> to=<delin.shen@practical.org> proto=ESMTP helo=<mta2.primary.na.epidm.net>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11194]: 9C2AAA8BE12: warning: header Subject: Live Webinar - Equipment, Facilities, and Preventive Maintenance System - Principles of Lean Documents and Lean Configuration from mta2.primary.na.epidm.net[146.82.220.41]; from=<training@info.globalcompliancepanel.com> to=<delin.shen@practical.org> proto=ESMTP helo=<mta2.primary.na.epidm.net>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11194]: 9C2AAA8BE12: message-id=<Kilauea119989-74190-310755798-1-1018@flonetwork.com>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11194]: 9C2AAA8BE12: message-id=<Kilauea119989-74190-310755798-1-1018@flonetwork.com>
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11154]: connect from unknown[173.236.112.201]
+<20>Jul 25 13:40:44 acmesmtp postfix/smtpd[11154]: warning: 173.236.112.201: address not listed for hostname server.summer-rentals.com
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11154]: connect from unknown[173.236.112.201]
+<20>Jul 25 13:40:44 acmesmtp postfix/smtpd[11154]: warning: 173.236.112.201: address not listed for hostname server.summer-rentals.com
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 69548A8BD71: from=<training@info.globalcompliancepanel.com>, size=21195, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 69548A8BD71: from=<training@info.globalcompliancepanel.com>, size=21195, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11189]: 9C2AAA8BE12: client=mta2.primary.na.epidm.net[146.82.220.41]
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11189]: 9C2AAA8BE12: client=mta2.primary.na.epidm.net[146.82.220.41]
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11193]: 69548A8BD71: warning: header Subject: Live Webinar - Equipment, Facilities, and Preventive Maintenance System - Principles of Lean Documents and Lean Configuration from mta2.primary.na.epidm.net[146.82.220.40]; from=<training@info.globalcompliancepanel.com> to=<dlee@practical.org> proto=ESMTP helo=<mta2.primary.na.epidm.net>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11193]: 69548A8BD71: warning: header Subject: Live Webinar - Equipment, Facilities, and Preventive Maintenance System - Principles of Lean Documents and Lean Configuration from mta2.primary.na.epidm.net[146.82.220.40]; from=<training@info.globalcompliancepanel.com> to=<dlee@practical.org> proto=ESMTP helo=<mta2.primary.na.epidm.net>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11193]: 69548A8BD71: message-id=<Kilauea119989-74190-241360121-1-1018@flonetwork.com>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11193]: 69548A8BD71: message-id=<Kilauea119989-74190-241360121-1-1018@flonetwork.com>
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11166]: 5D11FA8BDEF: to=<951047N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.12, delays=0.08/0/0.01/0.03, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 5D11FA8BDEF: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11166]: 5D11FA8BDEF: to=<951047N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.12, delays=0.08/0/0.01/0.03, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11177]: 5DAB9A8BDF0: to=<hcis-ww-rms-24x7@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.12, delays=0.08/0/0.01/0.03, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 5DAB9A8BDF0: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 5D11FA8BDEF: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11177]: 5DAB9A8BDF0: to=<hcis-ww-rms-24x7@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.12, delays=0.08/0/0.01/0.03, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 5DAB9A8BDF0: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11206]: 53520A8BDA5: to=<226646N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.15, delays=0.06/0/0.02/0.08, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 53520A8BDA5: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11206]: 53520A8BDA5: to=<226646N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.15, delays=0.06/0/0.02/0.08, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 53520A8BDA5: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11189]: connect from mta2.primary.na.epidm.net[146.82.220.41]
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11189]: connect from mta2.primary.na.epidm.net[146.82.220.41]
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 0665DA8BE2A: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11073]: 0665DA8BE2A: to=<hcis-ww-rms-24x7@cs-notes.practical.org>, orig_to=<hcis-ww-rms-24x7@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.48, delays=0.18/0/0/0.3, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_814_11924_1 5DAB9A8BDF0)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 5DAB9A8BDF0: from=<sauron@gmail.com>, size=3477, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11157]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 5DAB9A8BDF0: from=<sauron@gmail.com>, size=3477, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 0665DA8BE2A: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 5D11FA8BDEF: from=<sauron@gmail.com>, size=3473, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11073]: 0665DA8BE2A: to=<hcis-ww-rms-24x7@cs-notes.practical.org>, orig_to=<hcis-ww-rms-24x7@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.48, delays=0.18/0/0/0.3, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_814_11924_1 5DAB9A8BDF0)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 5D11FA8BDEF: from=<sauron@gmail.com>, size=3473, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11157]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 06438A8BE29: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11069]: 06438A8BE29: to=<951047N@cs-notes.practical.org>, orig_to=<andrea.ceccopieri@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.48, delays=0.18/0/0/0.3, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_21293_7349_1 5D11FA8BDEF)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 06438A8BE29: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 97355A8BD21: from=<moi.leong@kodak.com>, size=1989150, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 97355A8BD21: from=<moi.leong@kodak.com>, size=1989150, nrcpt=1 (queue active)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11033]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11033]: disconnect from localhost[127.0.0.1]
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11069]: 06438A8BE29: to=<951047N@cs-notes.practical.org>, orig_to=<andrea.ceccopieri@practical.org>, relay=127.0.0.1[127.0.0.1]:10025, delay=0.48, delays=0.18/0/0/0.3, dsn=2.0.0, status=sent (250 OK, sent 4E2D725C_21293_7349_1 5D11FA8BDEF)
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 53F38A8BDD7: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/qmgr[15719]: 53F38A8BDD7: removed
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11209]: 53F38A8BDD7: to=<910175N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.1, delays=0.05/0/0.02/0.02, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtp[11209]: 53F38A8BDD7: to=<910175N@cs-notes.practical.org>, relay=ashzp0010.corp.practical.org[212.19.223.18]:25, delay=0.1, delays=0.05/0/0.02/0.02, dsn=2.0.0, status=sent (250 Message accepted for delivery)
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11196]: 69548A8BD71: client=mta2.primary.na.epidm.net[146.82.220.40]
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11179]: 5DAB9A8BDF0: warning: header Subject: [NAGIOS] PAR_rom26100 : PROBLEM alert / Service "Uma processes" is CRITICAL from localhost[127.0.0.1]; from=<sauron@gmail.com> to=<hcis-ww-rms-24x7@cs-notes.practical.org> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11179]: 5DAB9A8BDF0: message-id=<201107251314.p6PDElkO026147@sauron.practical.org>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11179]: 5DAB9A8BDF0: warning: header Subject: [NAGIOS] PAR_rom26100 : PROBLEM alert / Service "Uma processes" is CRITICAL from localhost[127.0.0.1]; from=<sauron@gmail.com> to=<hcis-ww-rms-24x7@cs-notes.practical.org> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:44 acmesmtp postfix/smtpd[11196]: 69548A8BD71: client=mta2.primary.na.epidm.net[146.82.220.40]
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11179]: 5DAB9A8BDF0: message-id=<201107251314.p6PDElkO026147@sauron.practical.org>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11197]: 5D11FA8BDEF: warning: header Subject: [NAGIOS] PAR_rom26100 : PROBLEM alert / Service "Uma processes" is CRITICAL from localhost[127.0.0.1]; from=<sauron@gmail.com> to=<951047N@cs-notes.practical.org> proto=SMTP helo=<acmesmtp.corp.practical.org>
+<22>Jul 25 13:40:44 acmesmtp postfix/cleanup[11197]: 5D11FA8BDEF: message-id=<201107251314.p6PDElv4026163@sauron.practical.org>

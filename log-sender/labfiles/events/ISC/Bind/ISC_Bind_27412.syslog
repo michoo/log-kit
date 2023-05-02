@@ -1,0 +1,111 @@
+<158>named[26310]: client 10.0.30.12#50684: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: Transfer started.
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.12#53: connected using 10.0.31.11#51758
+<156>named[26310]: zone zks.com/IN: rp_yul_d0686.zks.com/A: bad owner name (check-names)
+<158>named[26310]: zone zks.com/IN: transferred serial 61178
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.12#53: end of transfer
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61178)
+<158>named[26310]: client 63.243.145.52#41674: query 'zks.com/SOA/IN' denied
+<158>named[26310]: client 63.243.145.52#53571: transfer of 'zks.com/IN': IXFR started
+<158>named[26310]: client 63.243.145.52#53571: transfer of 'zks.com/IN': IXFR ended
+<158>named[26310]: zone 1.168.192.in-addr.arpa/IN: refresh: non-authoritative answer from master 10.0.30.12#53 (source 0.0.0.0#0)
+<158>named[26310]: zone 1.168.192.in-addr.arpa/IN: refresh: non-authoritative answer from master 10.0.30.14#53 (source 0.0.0.0#0)
+<158>named[26310]: zone 1.168.192.in-addr.arpa/IN: refresh: non-authoritative answer from master 10.0.30.15#53 (source 0.0.0.0#0)
+<158>named[26310]: zone 33.0.10.in-addr.arpa/IN: refresh: unexpected rcode (NXDOMAIN) from master 10.0.31.24#53 (source 0.0.0.0#0)
+<158>named[26310]: zone 33.0.10.in-addr.arpa/IN: refresh: unexpected rcode (NXDOMAIN) from master 10.0.31.28#53 (source 0.0.0.0#0)
+<158>named[26310]: client 10.0.30.14#56017: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.14#56017: zone is up to date
+<158>named[26310]: client 10.0.30.12#64901: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: Transfer started.
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.12#53: connected using 10.0.31.11#52502
+<156>named[26310]: zone zks.com/IN: rp_yul_d0686.zks.com/A: bad owner name (check-names)
+<158>named[26310]: zone zks.com/IN: transferred serial 61179
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.12#53: end of transfer
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61179)
+<158>named[26310]: zone 33.0.10.in-addr.arpa/IN: refresh: unexpected rcode (NXDOMAIN) from master 10.0.31.24#53 (source 0.0.0.0#0)
+<158>named[26310]: zone 33.0.10.in-addr.arpa/IN: refresh: unexpected rcode (NXDOMAIN) from master 10.0.31.28#53 (source 0.0.0.0#0)
+<158>named[26310]: zone 1.168.192.in-addr.arpa/IN: refresh: non-authoritative answer from master 10.0.30.12#53 (source 0.0.0.0#0)
+<158>named[26310]: zone 1.168.192.in-addr.arpa/IN: refresh: non-authoritative answer from master 10.0.30.14#53 (source 0.0.0.0#0)
+<158>named[26310]: zone 1.168.192.in-addr.arpa/IN: refresh: non-authoritative answer from master 10.0.30.15#53 (source 0.0.0.0#0)
+<158>named[26310]: client 63.243.145.52#56096: query (cache) 'noticecast.com/MX/IN' denied
+<158>named[26310]: client 63.243.145.52#56097: query (cache) 'noticecast.com/MX/IN' denied
+<158>named[26310]: zone 33.0.10.in-addr.arpa/IN: refresh: unexpected rcode (NXDOMAIN) from master 10.0.31.28#53 (source 0.0.0.0#0)
+<158>named[26310]: client 10.0.30.14#53072: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.14#53072: zone is up to date
+<158>named[26310]: client 10.0.30.14#62823: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61180)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: connected using 10.0.31.11#59171
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#62972: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61181)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#60176: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.12#51992: zone is up to date
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61182)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#49450: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.12#52089: zone is up to date
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61184)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#62039: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61185)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.12#52144: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.12#52144: zone is up to date
+<158>named[26310]: zone 33.0.10.in-addr.arpa/IN: refresh: unexpected rcode (NXDOMAIN) from master 10.0.31.28#53 (source 0.0.0.0#0)
+<158>named[26310]: client 10.0.30.14#64398: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61186)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.12#51024: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.12#51024: zone is up to date
+<158>named[26310]: client 63.243.145.52#53504: transfer of 'zks.com/IN': IXFR ended
+<158>named[26310]: client 10.0.30.14#63286: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61187)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#49178: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61189)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.12#57399: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.12#57399: zone is up to date
+<158>named[26310]: client 10.0.30.14#51097: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61190)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.12#56170: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61191)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.12#56170: zone is up to date
+<158>named[26310]: client 10.0.30.14#56135: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61193)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#60155: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61194)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#49224: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61195)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#62597: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61196)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.12#52493: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.12#52493: zone is up to date
+<158>named[26310]: client 63.243.145.52#56130: query (cache) 'WNDSTREAM.NET/MX/IN' denied
+<158>named[26310]: client 10.0.30.14#52043: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: serial number (61196) received from master 10.0.30.12#53 < ours (61197)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#60165: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61198)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.14#50620: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61199)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.12#51812: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.12#51812: zone is up to date
+<158>named[26310]: client 10.0.30.14#49488: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: serial number (61199) received from master 10.0.30.15#53 < ours (61201)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: zone 1.168.192.in-addr.arpa/IN: refresh: non-authoritative answer from master 10.0.30.15#53 (source 0.0.0.0#0)
+<158>named[26310]: client 10.0.30.14#53229: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: sending notifies (serial 61202)
+<158>named[26310]: transfer of 'zks.com/IN' from 10.0.30.14#53: end of transfer
+<158>named[26310]: client 10.0.30.12#49588: received notify for zone 'zks.com'
+<158>named[26310]: zone zks.com/IN: notify from 10.0.30.12#49588: zone is up to date

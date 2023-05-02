@@ -1,0 +1,57 @@
+<38>Nov 18 09:28:24 gnu.linuxserver.test.com <86>sshd[8327]: Bad protocol version identification 'Big-Brother-Monitor-1.9i' from ::ffff:10.152.3.24
+<38>Nov 18 09:33:56 gnu.linuxserver.test.com <86>sshd[14256]: Bad protocol version identification 'Big-Brother-Monitor-1.9i' from ::ffff:10.152.3.24
+<38>Nov 18 09:39:54 gnu.linuxserver.test.com <86>sshd[20411]: Bad protocol version identification 'Big-Brother-Monitor-1.9i' from ::ffff:10.152.3.24
+<38>Nov 18 09:31:38 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 10128.
+<38>Nov 18 09:32:39 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 10520.
+<38>Nov 18 09:33:39 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 14128.
+<38>Nov 18 09:33:56 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 14256.
+<38>Nov 18 09:34:39 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 14604.
+<38>Nov 18 09:35:39 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 15199.
+<38>Nov 18 09:36:39 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 15814.
+<38>Nov 18 09:37:39 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 16180.
+<38>Nov 18 09:38:39 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 19830.
+<38>Nov 18 09:39:39 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 20289.
+<38>Nov 18 09:39:54 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 20411.
+<38>Nov 18 09:40:39 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 20907.
+<38>Nov 18 09:26:38 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 4439.
+<38>Nov 18 09:27:38 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 4823.
+<38>Nov 18 09:28:24 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 8327.
+<38>Nov 18 09:28:38 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 8442.
+<38>Nov 18 09:29:38 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 8907.
+<38>Nov 18 09:30:38 gnu.linuxserver.test.com <87>sshd[2192]: debug1: Forked child 9507.
+<38>Nov 18 09:26:38 gnu.linuxserver.test.com <87>sshd[4439]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:27:38 gnu.linuxserver.test.com <87>sshd[4823]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:28:24 gnu.linuxserver.test.com <87>sshd[8327]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:28:38 gnu.linuxserver.test.com <87>sshd[8442]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:29:38 gnu.linuxserver.test.com <87>sshd[8907]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:30:38 gnu.linuxserver.test.com <87>sshd[9507]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:31:38 gnu.linuxserver.test.com <87>sshd[10128]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:32:39 gnu.linuxserver.test.com <87>sshd[10520]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:33:39 gnu.linuxserver.test.com <87>sshd[14128]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:33:56 gnu.linuxserver.test.com <87>sshd[14256]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:34:39 gnu.linuxserver.test.com <87>sshd[14604]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:35:39 gnu.linuxserver.test.com <87>sshd[15199]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:36:39 gnu.linuxserver.test.com <87>sshd[15814]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:37:39 gnu.linuxserver.test.com <87>sshd[16180]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:38:39 gnu.linuxserver.test.com <87>sshd[19830]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:39:39 gnu.linuxserver.test.com <87>sshd[20289]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:39:54 gnu.linuxserver.test.com <87>sshd[20411]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:40:39 gnu.linuxserver.test.com <87>sshd[20907]: debug1: inetd sockets after dupping: 3, 3
+<38>Nov 18 09:26:38 gnu.linuxserver.test.com <87>sshd[4439]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:27:38 gnu.linuxserver.test.com <87>sshd[4823]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:28:24 gnu.linuxserver.test.com <87>sshd[8327]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:28:38 gnu.linuxserver.test.com <87>sshd[8442]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:29:38 gnu.linuxserver.test.com <87>sshd[8907]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:30:38 gnu.linuxserver.test.com <87>sshd[9507]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:31:38 gnu.linuxserver.test.com <87>sshd[10128]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:32:39 gnu.linuxserver.test.com <87>sshd[10520]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:33:39 gnu.linuxserver.test.com <87>sshd[14128]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:33:56 gnu.linuxserver.test.com <87>sshd[14256]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:34:39 gnu.linuxserver.test.com <87>sshd[14604]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:35:39 gnu.linuxserver.test.com <87>sshd[15199]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:36:39 gnu.linuxserver.test.com <87>sshd[15814]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:37:39 gnu.linuxserver.test.com <87>sshd[16180]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:38:39 gnu.linuxserver.test.com <87>sshd[19830]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:39:39 gnu.linuxserver.test.com <87>sshd[20289]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:39:54 gnu.linuxserver.test.com <87>sshd[20411]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7
+<38>Nov 18 09:40:39 gnu.linuxserver.test.com <87>sshd[20907]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7

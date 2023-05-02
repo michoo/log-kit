@@ -1,0 +1,86 @@
+<86>crond[2941]: pam_per_user: create_subrequest_handle(): creating new subrequest (user="root", service="system-auth-generic")
+<86>crond[2941]: pam_per_user: create_subrequest_handle(): doing map lookup for user "root"
+<38>Jan 14 08:49:57 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:49:56 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<38>Jan 14 08:47:55 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:47:51 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:47:50 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<30>ntpd[1773]: synchronized to 10.152.6.102, stratum 2
+<38>Jan 14 08:46:29 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:46:26 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:46:25 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<30>snmpd[2480]: SNMPVmodl: refreshing cache completed. 
+<30>snmpd[2480]: SNMPVmodlRefreshCache: Examining 8 VMs found. 
+<30>snmpd[2480]: SNMPVmodl: start refreshing cache... 
+<38>Jan 14 08:45:48 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:45:45 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:45:45 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<86>crond[1970]: pam_per_user: create_subrequest_handle(): creating new subrequest (user="root", service="system-auth-generic")
+<86>crond[1970]: pam_per_user: create_subrequest_handle(): doing map lookup for user "root"
+<87>sudo: authutils_copy_ccache_to_default_ccache: Privs after restoring ids - uid/euid/gid/egid = 0/0/0/0
+<87>sudo: authutils_become_user: Begin
+<87>sudo: authutils_copy_ccache_to_default_ccache: End 0
+<87>sudo: authutils_become_user: dropping permissions to user oracle (uid 0), (euid 0)
+<87>sudo: authutils_become_user: uid/euid/gid/egid after dropping permissions = 0/204/0/207
+<87>sudo: authutils_become_user: End
+<87>sudo: authutils_become_user: skipped setgroups call
+<87>sudo: authutils_copy_ccache_to_default_ccache: begin - uid/euid/gid/egid = 0/0/0/0, service: sudo
+<87>sudo: authutils_copy_ccache_to_default_ccache: Begin
+<86>sudo: pam_vas: Authentication <succeeded> for <Active Directory> user: <marora> account: <marora@ingdirect.com> service: <sudo> reason: <N/A> Access Control Identifier(UPN):<marora@ingdirect.com>
+<30>ntpd[1773]: no servers reachable
+<38>Jan 14 08:43:42 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:43:38 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:43:37 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<30>ntpd[1773]: synchronized to 10.40.1.14, stratum 2
+<38>Jan 14 08:41:25 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:41:21 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:41:20 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<84>su: Deprecated pam_stack module called from service "su-l"
+<86>sudo: pam_vas: Authentication <succeeded> for <Active Directory> user: <canderle> account: <canderley@ingdirect.com> service: <sudo> reason: <N/A> Access Control Identifier(UPN):<canderley@ingdirect.com>
+<30>snmpd[2480]: SNMPVmodl: refreshing cache completed. 
+<30>snmpd[2480]: SNMPVmodlRefreshCache: Examining 8 VMs found. 
+<30>snmpd[2480]: SNMPVmodl: start refreshing cache... 
+<86>crond[1071]: pam_per_user: create_subrequest_handle(): creating new subrequest (user="root", service="system-auth-generic")
+<86>crond[1071]: pam_per_user: create_subrequest_handle(): doing map lookup for user "root"
+<38>Jan 14 08:39:33 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:39:29 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:39:29 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<38>Jan 14 08:37:26 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:37:23 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:37:22 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<30>ntpd[1773]: synchronized to 10.152.6.102, stratum 2
+<30>ntpd[1797]: synchronized to 10.40.1.14, stratum 2
+<38>Jan 14 08:35:21 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:35:16 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:35:15 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<86>crond[32532]: pam_per_user: create_subrequest_handle(): creating new subrequest (user="root", service="system-auth-generic")
+<86>crond[32532]: pam_per_user: create_subrequest_handle(): doing map lookup for user "root"
+<38>Jan 14 08:33:13 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:33:10 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:33:09 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<38>Jan 14 08:31:07 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:31:05 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:31:02 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<30>ntpd[12404]: synchronized to 10.152.6.102, stratum 2
+<30>ntpd[1773]: no servers reachable
+<86>crond[31639]: pam_per_user: create_subrequest_handle(): creating new subrequest (user="root", service="system-auth-generic")
+<86>crond[31639]: pam_per_user: create_subrequest_handle(): doing map lookup for user "root"
+<38>Jan 14 08:28:58 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:28:55 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:28:54 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<30>snmpd[2480]: SNMPVmodl: refreshing cache completed. 
+<30>snmpd[2480]: SNMPVmodlRefreshCache: Examining 8 VMs found. 
+<30>snmpd[2480]: SNMPVmodl: start refreshing cache... 
+<30>ntpd[1773]: synchronized to 10.152.6.102, stratum 2
+<38>Jan 14 08:26:58 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:26:54 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:26:53 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<86>crond[30704]: pam_per_user: create_subrequest_handle(): creating new subrequest (user="root", service="system-auth-generic")
+<86>crond[30704]: pam_per_user: create_subrequest_handle(): doing map lookup for user "root"
+<38>Jan 14 08:24:51 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:24:48 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:24:47 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<38>Jan 14 08:22:45 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: refreshing cache completed. 
+<38>Jan 14 08:22:41 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodlRefreshCache: Examining 14 VMs found. 
+<38>Jan 14 08:22:40 gnu.linuxserver.test.com <30>snmpd[2438]: SNMPVmodl: start refreshing cache... 
+<30>ntpd[1797]: synchronized to 10.152.6.102, stratum 2

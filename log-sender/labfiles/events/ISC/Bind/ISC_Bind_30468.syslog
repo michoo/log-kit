@@ -1,0 +1,6 @@
+<30>Mar 11 11:30:54 isc.bind.test.com named[2553]: success resolving '52.239.57.81.in-addr.arpa/PTR' (in '239.57.81.in-addr.arpa'?) after reducing the advertised EDNS UDP packet size to 512 octets
+<30>Mar 11 09:24:19 isc.bind.test.com named[6851]: success resolving 'vanderduin.net/MX' (in 'vanderduin.net'?) after reducing the advertised EDNS UDP packet size to 512 octets
+<30>Mar 11 11:30:54 isc.bind.test.com named[2553]: success resolving '52.239.57.81.in-addr.arpa/PTR' (in '239.57.81.in-addr.arpa'?) after reducing the advertised EDNS UDP packet size to 512 octets
+<30>Mar 11 09:24:19 isc.bind.test.com named[6851]: success resolving 'vanderduin.net/MX' (in 'vanderduin.net'?) after reducing the advertised EDNS UDP packet size to 512 octets
+<30>Mar 11 11:30:54 isc.bind.test.com named[2553]: success resolving '52.239.57.81.in-addr.arpa/PTR' (in '239.57.81.in-addr.arpa'?) after reducing the advertised EDNS UDP packet size to 512 octets
+<30>Mar 11 09:24:19 isc.bind.test.com named[6851]: success resolving 'vanderduin.net/MX' (in 'vanderduin.net'?) after reducing the advertised EDNS UDP packet size to 512 octets

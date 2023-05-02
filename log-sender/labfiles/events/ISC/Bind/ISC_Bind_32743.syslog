@@ -1,0 +1,18 @@
+<28>Sep 16 13:53:11 isc.bind.test.com named[24949]: (informational) Gap in journal, which will be reset: "0.168.192.in-addr.arpa._default.jnl"
+<30>Sep 16 13:55:43 isc.bind.test.com named[24949]: Intercept (blacklist rule): 'sites.google.com.' matched ruleset-pattern (redirect): 'mdl-export' -- 'sites.google.com' (192.168.0.93)
+<30>Sep 16 13:53:11 isc.bind.test.com named[24949]: client 192.168.0.250#56747: updating zone '0.168.192.in-addr.arpa/IN': Resetting journal "0.168.192.in-addr.arpa._default.jnl"
+<28>Sep 16 13:25:09 isc.bind.test.com named[24949]: zone '_tcp.vadition.local' allows updates by IP address, which is insecure
+<30>Sep 16 13:25:09 isc.bind.test.com named[24949]: 22 zones from database
+<30>Sep 16 13:25:09 isc.bind.test.com named[24949]: set up managed keys zone for view _default, file 'managed-keys.bind'
+<29>Sep 16 13:25:09 isc.bind.test.com named[24949]: running
+<30>Sep 16 13:25:09 isc.bind.test.com named[24949]: using default UDP/IPv6 port range: [1024, 65535]
+<27>Sep 16 13:25:09 isc.bind.test.com named[24949]: Duplicate blacklist rule 'hjNAa4wgkfFQ5LmSUT9O9Ub4.com', keeping the previous definition.
+<30>Sep 16 13:25:09 isc.bind.test.com named[24949]: using up to 21000 sockets
+<30>Sep 16 13:25:09 isc.bind.test.com named[24949]: listening on IPv4 interface lo, 127.0.0.1#53
+<30>Sep 16 13:25:09 isc.bind.test.com named[24949]: managed-keys-zone ./IN: loaded serial 0
+<30>Sep 16 13:25:09 isc.bind.test.com named[24949]: found 1 CPU, using 2 worker threads
+<29>Sep 16 13:25:09 isc.bind.test.com named[24949]: command channel listening on 127.0.0.1#953
+<30>Sep 16 13:25:09 isc.bind.test.com named[24949]: loading configuration from '/infoblox/var/named_conf/named.conf'
+<30>Sep 16 13:25:06 isc.bind.test.com named[27553]: shutting down
+<30>Sep 16 13:25:06 isc.bind.test.com named[27553]: no longer listening on 192.168.0.250#53
+<29>Sep 16 13:25:07 isc.bind.test.com named[24949]: starting BIND 9.8.0 -c /infoblox/var/named_conf/named.conf -u nobody

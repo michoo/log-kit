@@ -1,0 +1,44 @@
+<141>EndpointSecurity[26024]: [-] id[201004161114444bc846a412daa]: show_client_data
+<141>firepass[26265]: [-] FirePass service stopped on firepass.q1labs.lab
+<141>firepass[26638]: [-] FirePass service started on firepass.q1labs.lab
+<142>GarbageCollection[21959]: session 'c8ba8d33692910c3fdbd752bc20258ee' is terminated.
+<142>GarbageCollection[9414]: session '4f1184a37bbb94b54e10a052085a89f2' is expired due to inactivity. User may have logged out improperly.
+<142>maintenance[17729]: [] [718679] Access menu Welcome
+<142>maintenance[17729]: [] [718679] param a = welcome
+<142>maintenance[17748]: [] [226283] param click = 1
+<142>maintenance[17752]: [] [174459] Access menu Admin E-Mail
+<142>maintenance[17752]: [] [174459] param a = mail
+<142>maintenance[17764]: [] [149734] Access menu SNMP
+<142>maintenance[17764]: [] [149734] param a = snmp
+<142>maintenance[17764]: [] [149734] param action = Submit
+<142>maintenance[17764]: [] [149734] param inform_hosts = [empty]
+<142>maintenance[17764]: [] [149734] param rocommunity = ur_public
+<142>maintenance[17764]: [] [149734] param roip = 172.16.0.0/16
+<142>maintenance[17764]: [] [149734] param run_snmp = on
+<142>maintenance[17764]: [] [149734] param rwcommunity = ur_private
+<142>maintenance[17764]: [] [149734] param rwip = 172.16.0.0/16
+<142>maintenance[17764]: [] [149734] param syscontact = Operations
+<142>maintenance[17764]: [] [149734] param syslocation = expo
+<142>maintenance[17764]: [] [149734] param sysname = firepass
+<142>maintenance[17764]: [] [149734] param trap2_hosts = [empty]
+<142>maintenance[17764]: [] [149734] param trap_hosts = [empty]
+<142>maintenance[17764]: [] [149734] param trapcommunity = ur_traps
+<142>maintenance[17856]: [] Entered Top of the Webtop
+<142>maintenance[17856]: [] Finished using Admin Console
+<142>maintenance[17856]: [] Logged out Sid = c8ba8
+<142>maintenance[3738]: [] [721010] Access menu Activate License
+<142>maintenance[3738]: [] [721010] param a = pickup_license
+<142>maintenance[3751]: [] [520134] Access menu Logs
+<142>maintenance[3751]: [] [520134] param a = logs
+<142>maintenance[8129]: [] Entered Admin Console
+<140>Miscellaneous[27999]: [-] Purge logs: auto started
+<140>Miscellaneous[27999]: [-] Purge logs: finished. Deleted 0 logon records
+<140>Miscellaneous[9227]: [-] Purge logs: Failed to put archive to FTP server.<br>
+<139>security[10498]: [cullisda-rsa@NetOps-RADIUS] Possible intrusion attempt detected against account cullisda-rsa from source IP address 65.207.184.17 for URI=[/vdesk/index.php3?langchar=en.iso-8859-1&ui_translation=off&gbrowsertype=](USER-AGENT changed.[Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30729)->Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.5.30729
+<139>security[26039]: [LASKO.JAMES.DOYLE.1383195426@AccuRev_Users] Possible intrusion attempt detected against account LASKO.JAMES.DOYLE.1383195426 from source IP address 66.218.138.190 for URI=[/vdesk/hangup.php3](Client certificate changed. )
+<139>security[32067]: [ARTHUR.KEVIN.JAMES.1024853868@NetOps] Possible intrusion attempt!  5 consecutive authentication failures happened within 5 min. Last Source IP Address: 138.162.0.44  Please check the Logons page in the Reports section of the Admin console for additional details, including the IP address for all logon attempts.  FirePass 4100 Authentication Module.
+<142>security[32470]: [arthurkj@Air_4.3.3.5] Invalid user arthurkj failed to log on from 138.162.0.44
+<142>security[4165]: [ARTHUR.KEVIN.JAMES.1024853868@NetOps] Valid user ARTHUR.KEVIN.JAMES.1024853868 failed to log on from 138.162.0.41
+<142>security[8130]: [] User admin logged on from 10.100.100.122 Sid = c8ba8
+<142>NetworkAccess[29705]: [iteam@Default] <afb9b> Network Access Connection terminated
+<142>NetworkAccess[29705]: [iteam@Default] <afb9b> Open Network Access Connection using remote IP address 192.168.192.4

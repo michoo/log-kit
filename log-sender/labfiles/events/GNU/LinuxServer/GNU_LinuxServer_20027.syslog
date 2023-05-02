@@ -1,0 +1,20 @@
+<86>su: pam_unix(su-l:session): session closed for user root
+<86>su: pam_unix(su-l:session): session closed for user dlaporte
+<86>su: pam_unix(su-l:session): session closed for user root
+<85>sshd[7475]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=dhcp-209-201.harvard.edu  user=dlaporte
+<86>sshd[7475]: pam_unix(sshd:session): session closed for user dlaporte
+<85>sshd[12016]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=dhcp-209-201.harvard.edu  user=dlaporte
+<83>sshd[12016]: pam_ldap: error trying to bind as user "uid=dlaporte,ou=People,dc=harvard,dc=edu" (Invalid credentials)
+<86>sshd[12016]: Failed password for dlaporte from 128.103.209.201 port 51280 ssh2
+<86>sshd[12016]: Accepted password for dlaporte from 128.103.209.201 port 51280 ssh2
+<86>sshd[12016]: pam_unix(sshd:session): session opened for user dlaporte by (uid=0)
+<86>sshd[12016]: pam_unix(sshd:session): session closed for user dlaporte
+<85>sshd[12016]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=dhcp-209-201.harvard.edu  user=dlaporte
+<85>sshd[12063]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=dhcp-209-201.harvard.edu  user=dlaporte
+<86>sshd[12063]: Accepted password for dlaporte from 128.103.209.201 port 51281 ssh2
+<86>sshd[12063]: pam_unix(sshd:session): session opened for user dlaporte by (uid=0)
+<86>sshd[12063]: pam_unix(sshd:session): session closed for user dlaporte
+<85>sshd[12119]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=dhcp-209-201.harvard.edu  user=dlaporte
+<83>sshd[12119]: pam_ldap: error trying to bind as user "uid=dlaporte,ou=People,dc=harvard,dc=edu" (Invalid credentials)
+<86>sshd[12119]: Failed password for dlaporte from 128.103.209.201 port 51282 ssh2
+<83>sshd[12978]: pam_ldap: error trying to bind as user "uid=dlaporte,ou=People,dc=harvard,dc=edu" (Invalid credentials)

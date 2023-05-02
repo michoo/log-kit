@@ -1,0 +1,16 @@
+<141>q1ssg5: NetScreen device_id=q1ssg5  [Root]system-notification-00564: Wireless station event: station 0013ce395639 is disassociated, SSID: juniper. (2007-06-29 13:15:36).
+<141>q1ssg5: NetScreen device_id=q1ssg5  [Root]system-notification-00564: Wireless station event: Station 0013ce395639 Open authentication passed, SSID: juniper. (2007-06-29 13:16:58).
+<141>q1ssg5: NetScreen device_id=q1ssg5  [Root]system-notification-00564: Wireless station event: station 0013ce395639 is associated, SSID: juniper. (2007-06-29 13:16:58).
+<141>q1ssg5: NetScreen device_id=q1ssg5  [Root]system-notification-00564: Wireless station event: Station 0013ce395639 WPA authentication starting, SSID: juniper. (2007-06-29 13:16:58).
+<141>q1ssg5: NetScreen device_id=q1ssg5  [Root]system-notification-00564: Wireless station event: Station 0013ce395639 WPA authentication negotiating, SSID: juniper. (2007-06-29 13:16:59).
+<141>q1ssg5: NetScreen device_id=q1ssg5  [Root]system-notification-00564: Wireless station event: Station 0013ce395639 WPA authentication passed, SSID: juniper. (2007-06-29 13:16:59).
+<141>q1ssg5: NetScreen device_id=q1ssg5  [Root]system-notification-00564: Wireless station event: station 0013ce395639 is disassociated, SSID: juniper. (2007-06-29 13:45:38).
+<142>q1ssg5: NetScreen device_id=q1ssg5  [Root]system-information-00527: IP address 172.16.10.203 is assigned to 0013ce395639. (2007-06-29 13:16:59).
+<178>ns5gt: NetScreen device_id=ns5gt [Root]system-critical-00027: Multiple login failures occurred for user netscreen from IP address 10.100.50.42:3226 (2005-10-07 08:45:37)
+<180>ns5gt: NetScreen device_id=ns5gt [Root]system-warning-00528: SSH: Admin 'admin' at host 10.100.50.42 attempted to be authenticated with no authentication methods enabled. (2005-08-26 09:07:59)
+<181>ns5gt: NetScreen device_id=ns5gt [Root]system-notification-00513: The physical state of interface untrust has changed to Down (2005-08-26 08:56:19)
+<182>ns5gt: NetScreen device_id=ns5gt [Root]system-information-00527: IP address 192.168.5.100 has been assigned to 008029ea7d76 (2005-08-18 20:42:55)
+<180>ns5gt: NetScreen device_id=ns5gt [Root]system-warning-00515: Admin user netscreen has logged out via SSH from 10.100.50.42:0 (2005-08-26 09:08:23)
+<181>ns5gt: NetScreen device_id=ns5gt [Root]system-notification-00002: Admin user "netscreen" logged in for Web(http) management (port 80) from 10.100.50.42:2088 (2005-08-26 09:09:08)
+<182>ns5gt: NetScreen device_id=ns5gt [Root]system-information-00527: IP address 192.168.5.100 has been assigned to 008029ea7d76 (2005-08-18 20:42:55)
+<182>ns5gt: NetScreen device_id=ns5gt [Root]system-information-00527: DHCP server on interface untrust received DHCPDISCOVER from 008029ea7d76 requesting out-of-scope IP address 10.100.100.118/0.0.0.0 (2005-08-18 20:15:45)

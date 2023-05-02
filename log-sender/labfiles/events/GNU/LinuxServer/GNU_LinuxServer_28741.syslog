@@ -1,0 +1,572 @@
+<78>crond[12544]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[12545]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[14545]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[16566]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[16567]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[18571]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[20592]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[20593]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[22593]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[24572]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[24573]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[26576]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[28597]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[28598]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[30483]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[32484]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[32485]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[432]: (root) CMD (run-parts /etc/cron.hourly)
+<29>ntpd[2904]: time reset +0.697548 s
+<78>crond[2084]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[4214]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[4215]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<31>rhnsd[5442]: running program /usr/sbin/rhn_check
+<78>crond[6208]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[8209]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[8210]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[10234]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[12235]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[12236]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[14256]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[16257]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[16258]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[18274]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[20101]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[20102]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[22126]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.551081 s
+<78>crond[24147]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[24148]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[24554]: (root) CMD (run-parts /etc/cron.hourly)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[26153]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[28174]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[28175]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[30195]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[32154]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[32155]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[1743]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3869]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3870]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[5918]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.509146 s
+<78>crond[7919]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[7920]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[9804]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11805]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11806]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[13788]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15809]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15810]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[16196]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[17815]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19836]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19837]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[21837]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23858]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23859]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[25821]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.341561 s
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[27842]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[27843]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[29843]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31725]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31726]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[1292]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3427]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3428]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[5472]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[7451]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[7452]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[7858]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[9457]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[11478]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11479]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[13479]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15500]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15501]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[17505]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19484]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19485]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[21485]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[23367]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23368]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[25371]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[27392]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[27393]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[29417]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31418]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31419]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[31825]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[965]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.895037 s
+<78>crond[3056]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3057]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<31>rhnsd[4365]: running program /usr/sbin/rhn_check
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[5142]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[7143]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[7144]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9168]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11169]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11170]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[13043]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15010]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15011]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[17034]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19059]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19060]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[21060]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23081]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23082]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[23488]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[25087]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[27066]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[27067]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[29067]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31092]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31093]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[675]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[2734]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[2735]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[4713]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[6714]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[6715]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[8696]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[10697]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[10698]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[12722]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[14723]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[14724]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15130]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[16749]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[18750]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[18751]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[20771]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +1.343065 s
+<78>crond[22730]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[22731]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[24755]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[26637]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[26638]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[28638]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[30659]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[30660]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[32663]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[2219]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[2220]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[4353]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[6385]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[6386]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[6796]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[8395]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[10416]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[10417]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[12417]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[14438]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[14439]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[16262]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[18283]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[18284]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[20284]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[22305]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[22306]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[24329]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[26330]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[26331]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[27549]: (root) CMD (/usr/lib64/sa/sa2 -A)
+<78>crond[28362]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[30321]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[30322]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[30728]: (root) CMD (run-parts /etc/cron.hourly)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[32347]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[1934]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[1935]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<31>rhnsd[3247]: running program /usr/sbin/rhn_check
+<78>crond[4061]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[6108]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[6109]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[7974]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9973]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9974]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[11974]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[13975]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[13976]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[15999]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[18000]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[18001]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[20025]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[22026]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[22027]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[22433]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[24010]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[26031]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[26032]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<29>ntpd[2904]: time reset +1.132014 s
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[28032]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[29914]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[29915]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[31919]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[1505]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[1504]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3623]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[5637]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[5638]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[7641]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9662]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9663]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[11667]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[13703]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[13704]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[14110]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[15709]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[17688]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[17689]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[19689]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[21575]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[21576]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[23576]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[25597]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[25598]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[27598]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[29619]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[29620]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[31581]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[1169]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[1170]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3295]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[5353]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[5354]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[5760]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[7379]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9380]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9381]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[11262]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[13221]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[13222]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[15242]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[17243]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[17244]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<29>ntpd[2904]: time reset +1.233395 s
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[19268]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[21269]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[21270]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[23293]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[25302]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[25303]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[27273]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[29294]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[29295]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[29701]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[30110]: (root) CMD (run-parts /etc/cron.daily)
+<77>anacron[30114]: Updated timestamp for job `cron.daily' to 2011-02-14
+<78>crond[31795]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[1220]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[1221]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<31>rhnsd[2642]: running program /usr/sbin/rhn_check
+<78>crond[3350]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.208926 s
+<78>crond[5417]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[5418]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[7396]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9397]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9398]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[11422]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[13423]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[13424]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[15447]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[17448]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[17449]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[19469]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[21428]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[21429]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[21835]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[23458]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[25320]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[25321]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[27341]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[29362]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[29363]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[31363]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[947]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[948]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[2989]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[5085]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[5086]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<29>ntpd[2904]: time reset +0.780191 s
+<78>crond[7089]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[9110]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9111]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[11111]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[13132]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[13133]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[13539]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[14961]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[16983]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[16982]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[18983]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[21004]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[21005]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[23025]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[25026]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[25027]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[27051]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[29030]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[29031]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[31034]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[615]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[616]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[2674]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.559766 s
+<78>crond[4794]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[4795]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[5062]: (root) CMD (run-parts /etc/cron.hourly)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[6685]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[8686]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[8687]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[10665]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[12666]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[12667]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[14687]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.221684 s
+<78>crond[16688]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[16689]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[18713]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[20714]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[20715]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[22696]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[24697]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[24698]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[26718]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[28580]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[28581]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[28987]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[30610]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[32611]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[32612]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<31>rhnsd[1548]: running program /usr/sbin/rhn_check
+<78>crond[2208]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[4298]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[4299]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<29>ntpd[2904]: time reset +0.202261 s
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[6330]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[8351]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[8352]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[10356]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[12377]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[12378]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[14401]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[16402]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[16403]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[18242]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[20243]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[20244]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[20650]: (root) CMD (run-parts /etc/cron.hourly)
+<29>ntpd[2904]: time reset +0.300787 s
+<78>crond[22273]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[24274]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[24275]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[26295]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[28296]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[28297]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[30275]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[32276]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[32277]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[1867]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3991]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3992]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[6043]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.334916 s
+<78>crond[8044]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[8045]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[9926]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11885]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11886]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[12292]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[13915]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15936]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15937]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[17937]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19958]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19959]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[21959]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23980]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23981]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[25943]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[27964]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[27965]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[29988]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31850]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31851]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[1435]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3553]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3554]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[3968]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[5619]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[7598]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[7599]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[9599]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[11620]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11621]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[13621]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15642]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15643]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[17647]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19643]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[19644]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[21630]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23512]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[23513]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.641580 s
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[25513]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[27534]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[27535]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[27941]: (root) CMD (run-parts /etc/cron.hourly)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[29544]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31565]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31566]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<31>rhnsd[459]: running program /usr/sbin/rhn_check
+<78>crond[1108]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[3201]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[3202]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[5284]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[7285]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[7286]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[9310]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11311]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[11312]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[13196]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.311728 s
+<78>crond[15155]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[15156]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[17176]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[19177]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[19178]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[19584]: (root) CMD (run-parts /etc/cron.hourly)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[21207]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23208]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[23209]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[25229]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[27188]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[27189]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[29209]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31210]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[31211]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[798]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[2718]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[2717]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[4838]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[6859]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[6860]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[8818]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[10839]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[10840]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[11226]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[12849]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<29>ntpd[2904]: time reset +0.596389 s
+<78>crond[14870]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[14871]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[16871]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[18892]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[18893]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[20851]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[22872]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[22873]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[24897]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[26779]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[26780]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[28783]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[30804]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[30805]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<30>ntpd[2904]: synchronized to LOCAL(0), stratum 10
+<78>crond[346]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<30>ntpd[2904]: synchronized to 10.225.254.254, stratum 2
+<78>crond[2379]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
+<78>crond[2387]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+<78>crond[2818]: (root) CMD (run-parts /etc/cron.hourly)
+<78>crond[4503]: (root) CMD (  /opt/hp/hp-health/bin/check-for-restart-requests)
