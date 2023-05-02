@@ -49,15 +49,19 @@ telnet localhost 5000
 
 
 ## docker-elk-main
+```
 source .env
 docker-compose up
 docker-compose down -v //delete all volumes and builds
 docker-compose rm -a //remove all
+```
 
 nb: docker-compose en version 1.25 > 1.29 un bug avec '' dans la définition des mots de passe il ne faut donc pas en mettre
 
 ### Get IP
+```
 docker exec docker-elk-main_logstash_1 cat /etc/hosts
+```
 172.21.0.4
 
 Also you'll find in docker-elk-main/logstash/pipeline a pipeline configuration to digest logs :)
